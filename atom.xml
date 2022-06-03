@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anubis</title>
+  
+  
+  <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://zouxingyuks.github.io/"/>
+  <updated>2022-06-03T10:07:52.010Z</updated>
+  <id>http://zouxingyuks.github.io/</id>
+  
+  <author>
+    <name>邹星宇</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>npm 错误码及其解决方法</title>
+    <link href="http://zouxingyuks.github.io/2022/06/03/npm-%E9%94%99%E8%AF%AF%E7%A0%81%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://zouxingyuks.github.io/2022/06/03/npm-%E9%94%99%E8%AF%AF%E7%A0%81%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
+    <published>2022-06-03T10:07:25.000Z</published>
+    <updated>2022-06-03T10:07:52.010Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;128&quot;&gt;&lt;a href=&quot;#128&quot; class=&quot;headerlink&quot; title=&quot;128&quot;&gt;&lt;/a&gt;128&lt;/h2&gt;&lt;p&gt;执行如下命令：&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-javascript&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://zouxingyuks.github.io/2022/06/03/hello-world/"/>
+    <id>http://zouxingyuks.github.io/2022/06/03/hello-world/</id>
+    <published>2022-06-03T08:54:45.889Z</published>
+    <updated>2022-06-03T08:54:45.889Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
