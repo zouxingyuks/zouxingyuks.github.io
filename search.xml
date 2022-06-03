@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>博客功能添加</title>
+      <link href="/2022/06/04/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0/"/>
+      <url>/2022/06/04/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-配置音乐播放器"><a href="#1-配置音乐播放器" class="headerlink" title="1.配置音乐播放器"></a>1.配置音乐播放器</h1><p>要支持音乐播放，在<strong>主题</strong>的 <code>_config.yml</code> 配置文件中激活 music 配置即可：</p><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token comment"># 是否在首页显示音乐</span><span class="token key atrule">music</span><span class="token punctuation">:</span>  <span class="token key atrule">enable</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>  <span class="token key atrule">title</span><span class="token punctuation">:</span>         <span class="token comment"># 非吸底模式有效</span>    <span class="token key atrule">enable</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>    <span class="token key atrule">show</span><span class="token punctuation">:</span> 听听音乐  <span class="token key atrule">server</span><span class="token punctuation">:</span> netease   <span class="token comment"># require music platform: netease, tencent, kugou, xiami, baidu</span>  <span class="token key atrule">type</span><span class="token punctuation">:</span> playlist    <span class="token comment"># require song, playlist, album, search, artist</span>  <span class="token key atrule">id</span><span class="token punctuation">:</span> <span class="token number">503838841</span>     <span class="token comment"># require song id / playlist id / album id / search keyword</span>  <span class="token key atrule">fixed</span><span class="token punctuation">:</span> <span class="token boolean important">false</span>      <span class="token comment"># 开启吸底模式</span>  <span class="token key atrule">autoplay</span><span class="token punctuation">:</span> <span class="token boolean important">false</span>   <span class="token comment"># 是否自动播放</span>  <span class="token key atrule">theme</span><span class="token punctuation">:</span> <span class="token string">'#42b983'</span>  <span class="token key atrule">loop</span><span class="token punctuation">:</span> <span class="token string">'all'</span>       <span class="token comment"># 音频循环播放, 可选值: 'all', 'one', 'none'</span>  <span class="token key atrule">order</span><span class="token punctuation">:</span> <span class="token string">'random'</span>   <span class="token comment"># 音频循环顺序, 可选值: 'list', 'random'</span>  <span class="token key atrule">preload</span><span class="token punctuation">:</span> <span class="token string">'auto'</span>   <span class="token comment"># 预加载，可选值: 'none', 'metadata', 'auto'</span>  <span class="token key atrule">volume</span><span class="token punctuation">:</span> <span class="token number">0.7</span>       <span class="token comment"># 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效</span>  <span class="token key atrule">listFolded</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>  <span class="token comment"># 列表默认折叠</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><blockquote><p><code>server</code>可选<code>netease</code>（网易云音乐），<code>tencent</code>（QQ音乐），<code>kugou</code>（酷狗音乐），<code>xiami</code>（虾米音乐），</p><p><code>baidu</code>（百度音乐）。</p><p><code>type</code>可选<code>song</code>（歌曲），<code>playlist</code>（歌单），<code>album</code>（专辑），<code>search</code>（搜索关键字），<code>artist</code>（歌手）</p><p><code>id</code>获取方法示例: 浏览器打开网易云音乐，点击我喜欢的音乐歌单，浏览器地址栏后面会有一串数字，<code>playlist</code>的<code>id</code></p><p>即为这串数字。</p></blockquote><h1 id="2-添加博客首页搜索功能"><a href="#2-添加博客首页搜索功能" class="headerlink" title="2. 添加博客首页搜索功能"></a>2. 添加博客首页搜索功能</h1><h2 id="2-1-安装插件"><a href="#2-1-安装插件" class="headerlink" title="2.1. 安装插件"></a>2.1. 安装插件</h2><pre class="line-numbers language-bashb" data-language="bashb"><code class="language-bashb">npm install hexo-generator-search --save<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h2 id="2-2-在-Hexo-根目录下的-config-yml-文件中，新增以下的配置项："><a href="#2-2-在-Hexo-根目录下的-config-yml-文件中，新增以下的配置项：" class="headerlink" title="2.2 在 Hexo 根目录下的 _config.yml 文件中，新增以下的配置项："></a>2.2 在 Hexo 根目录下的 <code>_config.yml</code> 文件中，新增以下的配置项：</h2><pre class="line-numbers language-none"><code class="language-none"># Search of Indexsearch:  path: search.xml  field: post<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客美化 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>中国剩余定理</title>
       <link href="/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/"/>
       <url>/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</url>

@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-03T17:36:32.541Z</updated>
+  <updated>2022-06-03T18:29:23.488Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客功能添加</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0/</id>
+    <published>2022-06-03T18:23:50.000Z</published>
+    <updated>2022-06-03T18:29:23.488Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-配置音乐播放器&quot;&gt;&lt;a href=&quot;#1-配置音乐播放器&quot; class=&quot;headerlink&quot; title=&quot;1.配置音乐播放器&quot;&gt;&lt;/a&gt;1.配置音乐播放器&lt;/h1&gt;&lt;p&gt;要支持音乐播放，在&lt;strong&gt;主题&lt;/strong&gt;的</summary>
+        
+      
+    
+    
+    
+    <category term="博客美化" scheme="http://zouxingyuks.github.io/categories/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/"/>
+    
+    
+    <category term="hexo" scheme="http://zouxingyuks.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>中国剩余定理</title>
