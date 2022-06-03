@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-03T17:31:31.270Z</updated>
+  <updated>2022-06-03T17:36:32.541Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -21,12 +21,14 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</id>
     <published>2022-06-03T17:30:56.000Z</published>
-    <updated>2022-06-03T17:31:31.270Z</updated>
+    <updated>2022-06-03T17:36:32.541Z</updated>
     
     
     
     
-    <category term="算法 数论" scheme="http://zouxingyuks.github.io/categories/%E7%AE%97%E6%B3%95-%E6%95%B0%E8%AE%BA/"/>
+    <category term="算法" scheme="http://zouxingyuks.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="数论" scheme="http://zouxingyuks.github.io/categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E8%AE%BA/"/>
     
     
     <category term="算法 数论" scheme="http://zouxingyuks.github.io/tags/%E7%AE%97%E6%B3%95-%E6%95%B0%E8%AE%BA/"/>
