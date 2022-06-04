@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-03T18:29:23.488Z</updated>
+  <updated>2022-06-04T04:39:13.792Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>注册表清理</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86/</id>
+    <published>2022-06-04T04:18:01.000Z</published>
+    <updated>2022-06-04T04:39:13.792Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;　伴随着系统运行时间不断增长，我们的电脑 注册表 </summary>
+        
+      
+    
+    
+    
+    
+    <category term="经验" scheme="http://zouxingyuks.github.io/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图床</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/%E5%9B%BE%E5%BA%8A/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/%E5%9B%BE%E5%BA%8A/</id>
+    <published>2022-06-04T03:40:52.000Z</published>
+    <updated>2022-06-04T07:42:11.028Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、什么是图床&quot;&gt;&lt;a href=&quot;#一、什么是图床&quot; class=&quot;headerlink&quot; title=&quot;一、什么是图床&quot;&gt;&lt;/a&gt;一、什么是图床&lt;/h1&gt;&lt;p&gt;图床其实是互联网中存储图片的空间，作为一个人的云端图片链接&lt;/p&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    
+    <category term="经验" scheme="http://zouxingyuks.github.io/tags/%E7%BB%8F%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo 个人博客搭建及美化</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/</id>
+    <published>2022-06-04T03:38:01.000Z</published>
+    <updated>2022-06-04T03:38:01.630Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>博客功能添加</title>
