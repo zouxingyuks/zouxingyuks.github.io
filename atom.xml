@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-04T04:39:13.792Z</updated>
+  <updated>2022-06-04T11:36:06.113Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -17,11 +17,95 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Ubuntu 安装笔记</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/</id>
+    <published>2022-06-04T11:30:31.000Z</published>
+    <updated>2022-06-04T11:36:06.113Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;SSH-远程链接&quot;&gt;&lt;a href=&quot;#SSH-远程链接&quot; class=&quot;headerlink&quot; title=&quot;SSH 远程链接&quot;&gt;&lt;/a&gt;SSH 远程链接&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;安装软件</summary>
+        
+      
+    
+    
+    
+    <category term="-笔记 -软件安装" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
+    
+    
+    <category term="Ubuntu" scheme="http://zouxingyuks.github.io/tags/Ubuntu/"/>
+    
+    <category term="Linux" scheme="http://zouxingyuks.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>newarticle</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/newarticle/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/newarticle/</id>
+    <published>2022-06-04T11:24:31.000Z</published>
+    <updated>2022-06-04T11:24:31.443Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>中文文案排版指南</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97%20/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97%20/</id>
+    <published>2022-06-04T11:24:31.000Z</published>
+    <updated>2022-06-04T11:33:27.626Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;中文文案排版指南&quot;&gt;&lt;a href=&quot;#中文文案排版指南&quot; class=&quot;headerlink&quot; title=&quot;中文文案排版指南&quot;&gt;&lt;/a&gt;中文文案排版指南&lt;/h1&gt;&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h2 id=&quot;空格规则&quot;&gt;&lt;a href=&quot;#空格规则&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>快速幂</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/%E5%BF%AB%E9%80%9F%E5%B9%82/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/%E5%BF%AB%E9%80%9F%E5%B9%82/</id>
+    <published>2022-06-04T11:09:05.000Z</published>
+    <updated>2022-06-04T11:24:00.557Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;快速幂&quot;&gt;&lt;a href=&quot;#快速幂&quot; class=&quot;headerlink&quot; title=&quot;快速幂&quot;&gt;&lt;/a&gt;快速幂&lt;/h1&gt;&lt;h2 id=&quot;原理&quot;&gt;&lt;a href=&quot;#原理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>注册表清理</title>
     <link href="http://zouxingyuks.github.io/2022/06/04/%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86/</id>
     <published>2022-06-04T04:18:01.000Z</published>
-    <updated>2022-06-04T04:39:13.792Z</updated>
+    <updated>2022-06-04T11:16:13.858Z</updated>
     
     
       
@@ -33,6 +117,8 @@
       
     
     
+    
+    <category term="Windows相关" scheme="http://zouxingyuks.github.io/categories/Windows%E7%9B%B8%E5%85%B3/"/>
     
     
     <category term="经验" scheme="http://zouxingyuks.github.io/tags/%E7%BB%8F%E9%AA%8C/"/>
@@ -106,8 +192,16 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</id>
     <published>2022-06-03T17:30:56.000Z</published>
-    <updated>2022-06-03T17:36:32.541Z</updated>
+    <updated>2022-06-04T11:14:52.139Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;证明&quot;&gt;&lt;a href=&quot;#证明&quot; class=&quot;headerlink&quot; title=&quot;证明&quot;&gt;&lt;/a&gt;证明&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
     
     
     
