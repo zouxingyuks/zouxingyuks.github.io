@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-04T11:36:06.113Z</updated>
+  <updated>2022-06-04T11:37:40.803Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/</id>
     <published>2022-06-04T11:30:31.000Z</published>
-    <updated>2022-06-04T11:36:06.113Z</updated>
+    <updated>2022-06-04T11:37:40.803Z</updated>
     
     
       
@@ -35,7 +35,9 @@
     
     
     
-    <category term="-笔记 -软件安装" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0-%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
+    <category term="笔记" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="软件安装" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
     
     
     <category term="Ubuntu" scheme="http://zouxingyuks.github.io/tags/Ubuntu/"/>
