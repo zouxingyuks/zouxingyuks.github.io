@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-05T11:21:08.541Z</updated>
+  <updated>2022-06-05T11:35:01.000Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>newarticle</title>
+    <link href="http://zouxingyuks.github.io/2022/06/05/newarticle/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/newarticle/</id>
+    <published>2022-06-05T09:51:19.000Z</published>
+    <updated>2022-06-05T11:35:01.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>newarticle</title>
@@ -28,7 +41,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;公式&quot;&gt;&lt;a href=&quot;#公式&quot; class=&quot;headerlink&quot; title=&quot;公式&quot;&gt;&lt;/a&gt;公式&lt;/h1&gt;&lt;blockquote&gt;
+    <summary type="html">&lt;h1&gt;公式&lt;/h1&gt;
+&lt;blockquote&gt;
 &lt;p&gt;采用&lt;a</summary>
         
       
@@ -43,14 +57,15 @@
     <link href="http://zouxingyuks.github.io/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
     <id>http://zouxingyuks.github.io/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
     <published>2022-06-05T09:32:53.000Z</published>
-    <updated>2022-06-05T09:35:31.548Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;方法一：停止Windows-Management-Instrumentation服务&quot;&gt;&lt;a href=&quot;#方法一：停止Windows-Management-Instrumentation服务&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1&gt;&lt;strong&gt;方法一：停止Windows Management Instrumentation服务&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2</summary>
         
       
     
@@ -74,14 +89,17 @@
     <link href="http://zouxingyuks.github.io/2022/06/05/c++%E5%BF%AB%E9%80%9F%E8%BE%93%E5%85%A5/"/>
     <id>http://zouxingyuks.github.io/2022/06/05/c++%E5%BF%AB%E9%80%9F%E8%BE%93%E5%85%A5/</id>
     <published>2022-06-05T09:28:38.000Z</published>
-    <updated>2022-06-05T09:50:45.676Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;一、解除系统流绑定&quot;&gt;&lt;a href=&quot;#一、解除系统流绑定&quot; class=&quot;headerlink&quot; title=&quot;一、解除系统流绑定&quot;&gt;&lt;/a&gt;一、解除系统流绑定&lt;/h1&gt;&lt;h2 id=&quot;使用方法&quot;&gt;&lt;a href=&quot;#使用方法&quot;</summary>
+    <summary type="html">&lt;h1&gt;一、解除系统流绑定&lt;/h1&gt;
+&lt;h2 id=&quot;使用方法&quot;&gt;使用方法&lt;/h2&gt;
+&lt;p&gt;在&lt;code&gt;main&lt;/code&gt;函数开头加入&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-c++&quot; data-language=&quot;c++&quot;&gt;&lt;code</summary>
         
       
     
@@ -99,14 +117,18 @@
     <link href="http://zouxingyuks.github.io/2022/06/05/Maximum%20Sum%20of%20Minimum%E9%A2%98%E8%A7%A3/"/>
     <id>http://zouxingyuks.github.io/2022/06/05/Maximum%20Sum%20of%20Minimum%E9%A2%98%E8%A7%A3/</id>
     <published>2022-06-05T08:17:26.000Z</published>
-    <updated>2022-06-05T09:28:03.095Z</updated>
+    <updated>2022-06-05T11:55:55.580Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;#题目链接&quot; class=&quot;headerlink&quot; title=&quot;题目链接&quot;&gt;&lt;/a&gt;&lt;a</summary>
+    <summary type="html">&lt;h1&gt;&lt;a href=&quot;https://atcoder.jp/contests/m-solutions2019/tasks/m_solutions2019_d&quot;&gt;题目链接&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;题意分析&quot;&gt;题意分析&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;C</summary>
         
       
     
@@ -124,14 +146,17 @@
     <link href="http://zouxingyuks.github.io/2022/06/05/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/"/>
     <id>http://zouxingyuks.github.io/2022/06/05/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/</id>
     <published>2022-06-05T08:08:49.000Z</published>
-    <updated>2022-06-05T08:11:53.166Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;空格规则&quot;&gt;&lt;a href=&quot;#空格规则&quot; class=&quot;headerlink&quot; title=&quot;空格规则&quot;&gt;&lt;/a&gt;空格规则&lt;/h2&gt;&lt;h3 id=&quot;中英文之间需要增加空格&quot;&gt;&lt;a href=&quot;#中英文之间需要增加空格&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;空格规则&quot;&gt;空格规则&lt;/h2&gt;
+&lt;h3 id=&quot;中英文之间需要增加空格&quot;&gt;中英文之间需要增加空格&lt;/h3&gt;
+&lt;p&gt;正确 ：学习 Markdown 是非常重要的&lt;/p&gt;
+&lt;p&gt;错误 ：学习 markdown是非常重要的 or</summary>
         
       
     
@@ -147,15 +172,24 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/</id>
     <published>2022-06-04T11:30:31.000Z</published>
-    <updated>2022-06-04T11:37:40.803Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;SSH-远程链接&quot;&gt;&lt;a href=&quot;#SSH-远程链接&quot; class=&quot;headerlink&quot; title=&quot;SSH 远程链接&quot;&gt;&lt;/a&gt;SSH 远程链接&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;安装软件</summary>
+    <summary type="html">&lt;h2 id=&quot;SSH-远程链接&quot;&gt;SSH 远程链接&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;安装软件 Xshell&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;服务器上重置密码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在防火墙上添加白名单&lt;/p&gt;
+&lt;img</summary>
         
       
     
@@ -177,14 +211,18 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/%E5%BF%AB%E9%80%9F%E5%B9%82/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/%E5%BF%AB%E9%80%9F%E5%B9%82/</id>
     <published>2022-06-04T11:09:05.000Z</published>
-    <updated>2022-06-04T11:24:00.557Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;快速幂&quot;&gt;&lt;a href=&quot;#快速幂&quot; class=&quot;headerlink&quot; title=&quot;快速幂&quot;&gt;&lt;/a&gt;快速幂&lt;/h1&gt;&lt;h2 id=&quot;原理&quot;&gt;&lt;a href=&quot;#原理&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1&gt;快速幂&lt;/h1&gt;
+&lt;h2 id=&quot;原理-3&quot;&gt;原理&lt;/h2&gt;
+&lt;p&gt;一个数 k 均可以转换为二进制&lt;/p&gt;
+&lt;p&gt;如&lt;code&gt;10 (10)= 1010 (2)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;即&lt;code&gt;10 = 2 +</summary>
         
       
     
@@ -198,14 +236,15 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86/</id>
     <published>2022-06-04T04:18:01.000Z</published>
-    <updated>2022-06-04T11:16:13.858Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;　伴随着系统运行时间不断增长，我们的电脑 注册表 </summary>
+    <summary type="html">&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;伴随着系统运行时间不断增长，我们的电脑 注册表 </summary>
         
       
     
@@ -223,15 +262,17 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/%E5%9B%BE%E5%BA%8A/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/%E5%9B%BE%E5%BA%8A/</id>
     <published>2022-06-04T03:40:52.000Z</published>
-    <updated>2022-06-04T07:42:11.028Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;一、什么是图床&quot;&gt;&lt;a href=&quot;#一、什么是图床&quot; class=&quot;headerlink&quot; title=&quot;一、什么是图床&quot;&gt;&lt;/a&gt;一、什么是图床&lt;/h1&gt;&lt;p&gt;图床其实是互联网中存储图片的空间，作为一个人的云端图片链接&lt;/p&gt;
-&lt;h1</summary>
+    <summary type="html">&lt;h1&gt;一、什么是图床&lt;/h1&gt;
+&lt;p&gt;图床其实是互联网中存储图片的空间，作为一个人的云端图片链接&lt;/p&gt;
+&lt;h1&gt;二、为什么要图床&lt;/h1&gt;
+&lt;p&gt;​	大部分人写博客都用&lt;code&gt;markdown&lt;/code&gt;，而&lt;code&gt;markdown&lt;/code&gt;的图片是通过链接的方</summary>
         
       
     
@@ -247,7 +288,7 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/</id>
     <published>2022-06-04T03:38:01.000Z</published>
-    <updated>2022-06-04T03:38:01.630Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
     
@@ -260,14 +301,17 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0%E5%8F%8A%E4%BC%98%E5%8C%96/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0%E5%8F%8A%E4%BC%98%E5%8C%96/</id>
     <published>2022-06-03T18:23:50.000Z</published>
-    <updated>2022-06-04T10:52:20.767Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;功能添加&quot;&gt;&lt;a href=&quot;#功能添加&quot; class=&quot;headerlink&quot; title=&quot;功能添加&quot;&gt;&lt;/a&gt;功能添加&lt;/h1&gt;&lt;h2 id=&quot;1-配置音乐播放器&quot;&gt;&lt;a href=&quot;#1-配置音乐播放器&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1&gt;功能添加&lt;/h1&gt;
+&lt;h2 id=&quot;1-配置音乐播放器&quot;&gt;1.配置音乐播放器&lt;/h2&gt;
+&lt;p&gt;要支持音乐播放，在&lt;strong&gt;主题&lt;/strong&gt;的 &lt;code&gt;_config.yml&lt;/code&gt; 配置文件中激活 music 配置即可：&lt;/p&gt;
+&lt;pre</summary>
         
       
     
@@ -285,14 +329,17 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</id>
     <published>2022-06-03T17:30:56.000Z</published>
-    <updated>2022-06-04T11:14:52.139Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;证明&quot;&gt;&lt;a href=&quot;#证明&quot; class=&quot;headerlink&quot; title=&quot;证明&quot;&gt;&lt;/a&gt;证明&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+    <summary type="html">&lt;h1&gt;证明&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206041914847.jpg&quot; alt=&quot;中国剩余定理证明&quot;&gt;&lt;/p&gt;
+&lt;h1&gt;代码&lt;/h1&gt;
+&lt;pre</summary>
         
       
     
@@ -312,7 +359,7 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/cdn/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/cdn/</id>
     <published>2022-06-03T17:28:04.000Z</published>
-    <updated>2022-06-03T17:28:04.658Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
     
@@ -325,15 +372,16 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/npm-%E9%94%99%E8%AF%AF%E7%A0%81%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/npm-%E9%94%99%E8%AF%AF%E7%A0%81%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
     <published>2022-06-03T17:15:11.000Z</published>
-    <updated>2022-06-03T17:23:17.754Z</updated>
+    <updated>2022-06-05T11:35:01.000Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;128&quot;&gt;&lt;a href=&quot;#128&quot; class=&quot;headerlink&quot; title=&quot;128&quot;&gt;&lt;/a&gt;128&lt;/h2&gt;&lt;p&gt;执行如下命令：&lt;/p&gt;
-&lt;pre class=&quot;line-numbers language-javascript&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;128&quot;&gt;128&lt;/h2&gt;
+&lt;p&gt;执行如下命令：&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-javascript&quot; data-language=&quot;javascript&quot;&gt;&lt;code</summary>
         
       
     
