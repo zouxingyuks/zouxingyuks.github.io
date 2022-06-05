@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>newarticle</title>
+      <link href="/2022/06/05/%E5%8D%9A%E5%AE%A2markdown%E7%9B%B8%E5%85%B3%E6%8F%92%E4%BB%B6/"/>
+      <url>/2022/06/05/%E5%8D%9A%E5%AE%A2markdown%E7%9B%B8%E5%85%B3%E6%8F%92%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="公式"><a href="#公式" class="headerlink" title="公式"></a>公式</h1><blockquote><p>采用<a href="https://github.com/MakerGYT/markdown-it-latex2img"><strong>markdown-it-latex2img</strong></a></p></blockquote><p>安装流程（hexo）</p><ol><li><p>安装</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">cnpm i hexo-renderer-markdown-it --savecnpm i markdown-it-latex2img --save<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><blockquote><p>没有配过淘宝镜像的就使用下列命令</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">npm i hexo-renderer-markdown-it --savenpm i markdown-it-latex2img --save<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre></blockquote></li><li><p>配置</p><p>在<code>themes</code> 下的<code> _config.yml</code>的文件末尾加入下列配置</p></li></ol><pre class="line-numbers language-none"><code class="language-none">markdown:  plugins:    - markdown-it-latex2img<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>win10系统右键菜单空白不显示解决方法</title>
       <link href="/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%20/"/>
       <url>/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%20/</url>
