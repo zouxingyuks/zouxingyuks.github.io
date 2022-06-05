@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-05T11:35:01.000Z</updated>
+  <updated>2022-06-05T12:03:39.785Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -17,38 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>newarticle</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/newarticle/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/newarticle/</id>
-    <published>2022-06-05T09:51:19.000Z</published>
-    <updated>2022-06-05T11:35:01.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>newarticle</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/%E5%8D%9A%E5%AE%A2markdown%E7%9B%B8%E5%85%B3%E6%8F%92%E4%BB%B6/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/%E5%8D%9A%E5%AE%A2markdown%E7%9B%B8%E5%85%B3%E6%8F%92%E4%BB%B6/</id>
-    <published>2022-06-05T09:51:19.000Z</published>
-    <updated>2022-06-05T11:21:08.541Z</updated>
+    <title>Ubuntu命令集</title>
+    <link href="http://zouxingyuks.github.io/2022/06/05/Ubuntu%E5%91%BD%E4%BB%A4%E9%9B%86%20/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/Ubuntu%E5%91%BD%E4%BB%A4%E9%9B%86%20/</id>
+    <published>2022-06-05T12:02:17.000Z</published>
+    <updated>2022-06-05T12:03:39.785Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;公式&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;采用&lt;a</summary>
+    <summary type="html">&lt;h3 id=&quot;目录操作&quot;&gt;目录操作&lt;/h3&gt;
+&lt;h4 id=&quot;创建目录&quot;&gt;创建目录&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;h5 id=&quot;命令格式&quot;&gt;命令格式&lt;/h5&gt;
+&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code</summary>
         
       
     
     
     
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    
+    
+    <category term="Linux" scheme="http://zouxingyuks.github.io/tags/Linux/"/>
     
   </entry>
   
@@ -57,14 +51,14 @@
     <link href="http://zouxingyuks.github.io/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
     <id>http://zouxingyuks.github.io/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
     <published>2022-06-05T09:32:53.000Z</published>
-    <updated>2022-06-05T11:35:01.000Z</updated>
+    <updated>2022-06-05T12:37:28.579Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;&lt;strong&gt;方法一：停止Windows Management Instrumentation服务&lt;/strong&gt;&lt;/h1&gt;
+    <summary type="html">&lt;h1&gt;&lt;strong&gt;方法一：停止&lt;code&gt;Windows Management Instrumentation&lt;/code&gt;服务&lt;/strong&gt;&lt;/h1&gt;
 &lt;h2</summary>
         
       
@@ -117,7 +111,7 @@
     <link href="http://zouxingyuks.github.io/2022/06/05/Maximum%20Sum%20of%20Minimum%E9%A2%98%E8%A7%A3/"/>
     <id>http://zouxingyuks.github.io/2022/06/05/Maximum%20Sum%20of%20Minimum%E9%A2%98%E8%A7%A3/</id>
     <published>2022-06-05T08:17:26.000Z</published>
-    <updated>2022-06-05T11:55:55.580Z</updated>
+    <updated>2022-06-05T11:58:41.494Z</updated>
     
     
       
@@ -288,8 +282,20 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/</id>
     <published>2022-06-04T03:38:01.000Z</published>
-    <updated>2022-06-05T11:35:01.000Z</updated>
+    <updated>2022-06-05T12:23:51.876Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;bo&lt;/p&gt;
+&lt;h1&gt;博客美化&lt;/h1&gt;
+&lt;h2 id=&quot;浏览器网页标题&quot;&gt;浏览器网页标题&lt;/h2&gt;
+&lt;p&gt;效果图&lt;/p&gt;
+&lt;p&gt;1.&lt;img</summary>
+        
+      
     
     
     
@@ -351,19 +357,6 @@
     
     
     <category term="算法 数论" scheme="http://zouxingyuks.github.io/tags/%E7%AE%97%E6%B3%95-%E6%95%B0%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>cdn</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/cdn/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/cdn/</id>
-    <published>2022-06-03T17:28:04.000Z</published>
-    <updated>2022-06-05T11:35:01.000Z</updated>
-    
-    
-    
-    
     
   </entry>
   
