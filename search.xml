@@ -4,6 +4,83 @@
   
     
     <entry>
+      <title>win10系统右键菜单空白不显示解决方法</title>
+      <link href="/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%20/"/>
+      <url>/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%20/</url>
+      
+        <content type="html"><![CDATA[<h1 id="方法一：停止Windows-Management-Instrumentation服务"><a href="#方法一：停止Windows-Management-Instrumentation服务" class="headerlink" title="方法一：停止Windows Management Instrumentation服务"></a><strong>方法一：停止Windows Management Instrumentation服务</strong></h1><h2 id="1、win-r打开运行输入services-msc。打开服务管理器"><a href="#1、win-r打开运行输入services-msc。打开服务管理器" class="headerlink" title="1、win+r打开运行输入services.msc。打开服务管理器"></a>1、win+r打开运行输入services.msc。打开服务管理器</h2><p><img src="https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206051734360.png" alt="image-20220415143924451"></p><h2 id="2、找到Windows-Management-Instrumentation服务，此服务与用户界面有关，停止该服务；"><a href="#2、找到Windows-Management-Instrumentation服务，此服务与用户界面有关，停止该服务；" class="headerlink" title="2、找到Windows Management Instrumentation服务，此服务与用户界面有关，停止该服务；"></a>2、找到Windows Management Instrumentation服务，此服务与用户界面有关，停止该服务；</h2><p><img src="C:\Users\Anubis\Desktop\系统问题大全\图片\image-20220415144029425.png" alt="image-20220415144029425"></p><h2 id="3、然后定位至C-Windows-System32-wbem-Repository，删除该文件夹下的所有文件。重启系统后，看能否解决问题。"><a href="#3、然后定位至C-Windows-System32-wbem-Repository，删除该文件夹下的所有文件。重启系统后，看能否解决问题。" class="headerlink" title="3、然后定位至C:\Windows\System32\wbem\Repository，删除该文件夹下的所有文件。重启系统后，看能否解决问题。"></a>3、然后定位至C:\Windows\System32\wbem\Repository，删除该文件夹下的所有文件。重启系统后，看能否解决问题。</h2><p><img src="https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206051735167.png" alt="image-20220415144139327"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验 </category>
+          
+          <category> Window </category>
+          
+          <category> Win10 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Window </tag>
+            
+            <tag> Win10 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>c++ 快速输入</title>
+      <link href="/2022/06/05/c++%E5%BF%AB%E9%80%9F%E8%BE%93%E5%85%A5/"/>
+      <url>/2022/06/05/c++%E5%BF%AB%E9%80%9F%E8%BE%93%E5%85%A5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一、解除系统流绑定"><a href="#一、解除系统流绑定" class="headerlink" title="一、解除系统流绑定"></a>一、解除系统流绑定</h1><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>在<code>main</code>函数开头加入</p><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">std::ios::sync_with_stdio(false);<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><p><code>cin</code> 效率的效率在数据输入上远低于 <code>scanf</code>，这不是<code>c++</code>比 <code>c</code> 低级，而是 <code>C++</code>  为了兼容<code>C</code> 而采取的保守措施。</p><p>标准 <code>C++</code> 流与标准 <code>C </code>流在每次输入&#x2F;输出操作后同步，同步的 <code>C++</code> 流为无缓冲，而每次 <code>C++</code> 流上的 <code>I/O</code> 都立即应用到对应 <code>C</code> 流的缓冲区。这使得能<strong>自由地混合 <code>C++</code> 与 <code>C I/O</code></strong> 。</p><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ul><li>解除绑定后不要混用 <code>cin</code> 与 <code>scanf</code></li></ul><h1 id="二、快速读入函数"><a href="#二、快速读入函数" class="headerlink" title="二、快速读入函数"></a>二、快速读入函数</h1><h2 id="原理-1"><a href="#原理-1" class="headerlink" title="原理"></a>原理</h2><p><code>C++</code>输入输出中处理字符串的效率是处理数字的效率的不知多少倍(为什么现在还不知道，别问我，我知道了会改的)</p><h2 id="整型"><a href="#整型" class="headerlink" title="整型"></a>整型</h2><pre class="line-numbers language-none"><code class="language-none">inline int read()&#x2F;&#x2F;inline 为内联关键字&#123;    int x&#x3D;0,w&#x3D;0;    char ch&#x3D;0;    while(!isdigit(ch)) w|&#x3D;ch&#x3D;&#x3D;&#39;-&#39;,ch&#x3D;getchar();    &#x2F;&#x2F;while(isdigit(ch)) x&#x3D;(x&lt;&lt;1)+(x&lt;&lt;3)+(ch^48),ch&#x3D;getchar();以前以为位运算能快点，但问了大佬才发现，其实没啥差别    while(isdigit(ch)) x&#x3D;x*10+ch-&#39;0&#39;,ch&#x3D;getchar();    return w?-x:x;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="浮点型"><a href="#浮点型" class="headerlink" title="浮点型"></a>浮点型</h2><pre class="line-numbers language-none"><code class="language-none">inline double  read()&#123;    int w&#x3D;0,y&#x3D;0;    double x&#x3D;0,t&#x3D;0.1;    char ch&#x3D;0;    while(!isdigit(ch)) w|&#x3D;ch&#x3D;&#x3D;&#39;-&#39;,ch&#x3D;getchar();    while(isdigit(ch)) x&#x3D;x*10+(ch^48),ch&#x3D;getchar();    y|&#x3D;ch&#x3D;&#x3D;&#39;.&#39;;    if(y)    &#123;        ch&#x3D;getchar();        while(isdigit(ch)) x+&#x3D;(ch^48)*t,t*&#x3D;0.1,ch&#x3D;getchar();    &#125;    return w?-x:x;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 算法 </tag>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Maximum Sum of Minimum</title>
+      <link href="/2022/06/05/Maximum%20Sum%20of%20Minimum%E9%A2%98%E8%A7%A3/"/>
+      <url>/2022/06/05/Maximum%20Sum%20of%20Minimum%E9%A2%98%E8%A7%A3/</url>
+      
+        <content type="html"><![CDATA[<h1 id="题目链接"><a href="#题目链接" class="headerlink" title="题目链接"></a><a href="https://atcoder.jp/contests/m-solutions2019/tasks/m_solutions2019_d">题目链接</a></h1><h2 id="题意分析"><a href="#题意分析" class="headerlink" title="题意分析"></a>题意分析</h2><ul><li><p>C 数组中存放点的权值（<strong>从小到大排序</strong>）</p></li><li><p>边的权值<br>$$<br>L&#x3D;min(C_i,C_j)<br>$$</p><blockquote><p><code>C[i] C[j]</code>为 L 的两个端点值</p></blockquote></li></ul><p>易知<code>C[1]</code>相连的边，其权值均为<code> C[1]</code></p><p>由贪心策略易知，越权值小的点，其相连边权值越小，因此应<strong>尽量减少其相连边</strong>，理想情况为将其填入叶子节点中。</p><h2 id="样例分析"><a href="#样例分析" class="headerlink" title="样例分析"></a>样例分析</h2><p><img src="https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206051658410.png" alt="img"></p><p>如图所示，在 4 号节点填入 C[1] 后，3-4 这条边已经确定权值了<strong>，我们可以将它删去</strong>，则 3 号节点成为了<strong>一个新的叶子节点</strong></p><p>在 3 号节点填入 C[2] 后，3-2 这条边已经确定权值了，我们可以将它删去</p><p>在 5 号节点填入 C[3] 后，5-2 这条边已经确定权值了，我们可以将它删去</p><p>后续操作不进行赘述。</p><p>基于上述操作方法，我们做到每一个当前情况下的最小点，均填入当前情况下的叶子节点中，从而使边权值最大。</p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>$$<br>Ans&#x3D;\sum {C_i}-C_{max}<br>$$</p><p>即<strong>每个点（除了最大点）的值均为一条边的权值</strong>。</p><p>要满足这个情况只需要使：<strong>只要子节点的值小于父节点的值即可</strong></p><h2 id="代码实现"><a href="#代码实现" class="headerlink" title="代码实现"></a>代码实现</h2><h3 id="BFS"><a href="#BFS" class="headerlink" title="BFS"></a>BFS</h3><p><img src="https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206051726435.jpg" alt="img"></p><pre class="line-numbers language-c++" data-language="c++"><code class="language-c++">&#x2F;&#x2F;采用按层填充#include&lt;bits&#x2F;stdc++.h&gt;using namespace std;const int maxn&#x3D;1e4+7;int C[maxn],N,Ans,ans[maxn];vector &lt;int&gt; T[maxn];void BFS(int root)&#123;    queue&lt;int&gt;Q;    int cnt&#x3D;N;    int l&#x3D;T[root].size();    for(int i&#x3D;0; i&lt;l; ++i)    &#123;        Q.push(T[root][i]);    &#125;    ans[root]&#x3D;C[cnt--];    while(!Q.empty())    &#123;        root&#x3D;Q.front();        Q.pop();        if(ans[root]) continue;        ans[root]&#x3D;C[cnt--];        l&#x3D;T[root].size();        for(int i&#x3D;0; i&lt;l; ++i)        &#123;            Q.push(T[root][i]);        &#125;    &#125;&#125;int main()&#123;    int a,b;    cin&gt;&gt;N;    for(int i&#x3D;1; i&lt;&#x3D;N-1; ++i)    &#123;        cin&gt;&gt;a&gt;&gt;b;        T[a].push_back(b);        T[b].push_back(a);    &#125;    for(int i&#x3D;1; i&lt;&#x3D;N; ++i)    &#123;        cin&gt;&gt;C[i];        Ans+&#x3D;C[i];    &#125;    sort(C+1,C+1+N);    Ans-&#x3D;C[N];&#x2F;&#x2F;最大值计算    BFS(1);    cout&lt;&lt;Ans&lt;&lt;endl;    for(int i&#x3D;1; i&lt;&#x3D;N; ++i)    &#123;        cout&lt;&lt;ans[i]&lt;&lt;&quot; &quot;;    &#125;    return 0;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="DFS"><a href="#DFS" class="headerlink" title="DFS"></a>DFS</h3><p><img src="https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206051727532.jpg" alt="img"></p><pre class="line-numbers language-none"><code class="language-none">&#x2F;&#x2F;仿照后序遍历的方式进行节点填充#include&lt;bits&#x2F;stdc++.h&gt;using namespace std;const int maxn&#x3D;1e4+7;int C[maxn],N,Ans,ans[maxn],cnt,vis[maxn];vector &lt;int&gt; T[maxn];void DFS(int root)&#123;    vis[root]&#x3D;1;    for(int i&#x3D;0; i&lt;T[root].size(); ++i)    &#123;        int v&#x3D;T[root][i];        if(vis[v]) continue;        DFS(v);    &#125;    ans[root]&#x3D;C[++cnt];    Ans+&#x3D;ans[root];&#125;int main()&#123;    int a,b;    cin&gt;&gt;N;    for(int i&#x3D;1; i&lt;&#x3D;N-1; ++i)    &#123;        cin&gt;&gt;a&gt;&gt;b;        T[a].push_back(b);        T[b].push_back(a);    &#125;    for(int i&#x3D;1; i&lt;&#x3D;N; ++i)        cin&gt;&gt;C[i];    sort(C+1,C+1+N);    DFS(1);    cout&lt;&lt;Ans&lt;&lt;endl;    for(int i&#x3D;1; i&lt;&#x3D;N; ++i)    &#123;        cout&lt;&lt;ans[i]&lt;&lt;&quot; &quot;;    &#125;    return 0;&#125;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 题解 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AtCode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>中文文案排版指南</title>
       <link href="/2022/06/05/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/"/>
       <url>/2022/06/05/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/</url>
