@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>中文文案排版指南</title>
+      <link href="/2022/06/05/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97%20/"/>
+      <url>/2022/06/05/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97%20/</url>
+      
+        <content type="html"><![CDATA[<h2 id="空格规则"><a href="#空格规则" class="headerlink" title="空格规则"></a>空格规则</h2><h3 id="中英文之间需要增加空格"><a href="#中英文之间需要增加空格" class="headerlink" title="中英文之间需要增加空格"></a>中英文之间需要增加空格</h3><p>正确 ：学习 Markdown 是非常重要的</p><p>错误 ：学习 markdown是非常重要的 or 学习markdown是非常重要的</p><h3 id="中文与数字之间需要增加空格"><a href="#中文与数字之间需要增加空格" class="headerlink" title="中文与数字之间需要增加空格"></a>中文与数字之间需要增加空格</h3><p>正确： 今天我花了 100 元</p><p>错误： 今天我花了100元</p><h3 id="数字与单位之间无需增加空格（PS：中文单位不符合此规则）"><a href="#数字与单位之间无需增加空格（PS：中文单位不符合此规则）" class="headerlink" title="数字与单位之间无需增加空格（PS：中文单位不符合此规则）"></a>数字与单位之间无需增加空格（PS：中文单位不符合此规则）</h3><p>正确：汽车的速度是 10m&#x2F;s </p><p>错误：汽车的速度是 10 m&#x2F;s</p><h3 id="全角标点与其他字符之间不加空格"><a href="#全角标点与其他字符之间不加空格" class="headerlink" title="全角标点与其他字符之间不加空格"></a>全角标点与其他字符之间不加空格</h3><h4 id="全角标点：需要手动切换，个人默认为半角"><a href="#全角标点：需要手动切换，个人默认为半角" class="headerlink" title="全角标点：需要手动切换，个人默认为半角"></a>全角标点：需要手动切换，个人默认为半角</h4><p>正确：今天买了一把手机，真开心！</p><p>错误：今天买了一把手机　，真开心　！</p><h2 id="标点符号"><a href="#标点符号" class="headerlink" title="标点符号"></a>标点符号</h2><h3 id="不重复使用标点符号"><a href="#不重复使用标点符号" class="headerlink" title="不重复使用标点符号"></a>不重复使用标点符号</h3><p>即不出现！！！这种连续使用，当然！？！？这种也不可以</p><h3 id="使用全角中文标点（使用中文输入法）"><a href="#使用全角中文标点（使用中文输入法）" class="headerlink" title="使用全角中文标点（使用中文输入法）"></a>使用全角中文标点（使用中文输入法）</h3><p>正确：今天真开心！</p><p>错误：今天真开心!</p><h3 id="数字使用半角字符"><a href="#数字使用半角字符" class="headerlink" title="数字使用半角字符"></a>数字使用半角字符</h3><p>正确：这个 100  元。</p><p>错误：这个 １００ 元。</p><p>例外：在设计稿、宣传海报中如出现极少量数字的情形时，为方便文字对齐，是可以使用全角数字的。（这句copy的）</p><h3 id="遇到完整的英文整句、特殊名词，其內容使用半角标点"><a href="#遇到完整的英文整句、特殊名词，其內容使用半角标点" class="headerlink" title="遇到完整的英文整句、特殊名词，其內容使用半角标点"></a>遇到完整的英文整句、特殊名词，其內容使用半角标点</h3><p>正确：乔布斯那句话是怎么说的？「Stay hungry, stay foolish.」</p><p>错误：乔布斯那句话是怎么说的？「Stay hungry，stay foolish．」</p><h2 id="名词"><a href="#名词" class="headerlink" title="名词"></a>名词</h2><h3 id="专有名词使用正确的大小写"><a href="#专有名词使用正确的大小写" class="headerlink" title="专有名词使用正确的大小写"></a>专有名词使用正确的大小写</h3><p>正确：使用 GitHub 登录</p><p>错误：使用 github 登录</p><h3 id="不要使用不地道的缩写"><a href="#不要使用不地道的缩写" class="headerlink" title="不要使用不地道的缩写"></a>不要使用不地道的缩写</h3><p>正确：你是会 JavaScript 吗？</p><p>错误：你是会 JS 吗？</p><h3 id="链接之间增加空格"><a href="#链接之间增加空格" class="headerlink" title="链接之间增加空格"></a>链接之间增加空格</h3><h3 id="简体中文使用直角引号"><a href="#简体中文使用直角引号" class="headerlink" title="简体中文使用直角引号"></a>简体中文使用直角引号</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ubuntu 安装笔记</title>
       <link href="/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/"/>
       <url>/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/</url>
@@ -187,19 +200,6 @@
             <tag> npm </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2022/06/03/hello-world/"/>
-      <url>/2022/06/03/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
