@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-06T12:17:44.154Z</updated>
+  <updated>2022-06-06T13:01:31.769Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RSS使用及其原理</title>
+    <link href="http://zouxingyuks.github.io/2022/06/06/rss-shi-yong-ji-qi-yuan-li/"/>
+    <id>http://zouxingyuks.github.io/2022/06/06/rss-shi-yong-ji-qi-yuan-li/</id>
+    <published>2022-06-06T12:59:16.000Z</published>
+    <updated>2022-06-06T13:01:31.769Z</updated>
+    
+    
+    
+    
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="RSS" scheme="http://zouxingyuks.github.io/tags/RSS/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo使用</title>
@@ -39,7 +56,7 @@
     <category term="笔记" scheme="http://zouxingyuks.github.io/categories/notes/"/>
     
     
-    <category term="博客" scheme="http://zouxingyuks.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="http://zouxingyuks.github.io/tags/blog/"/>
     
   </entry>
   
@@ -63,7 +80,7 @@
     
     
     
-    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/experience/"/>
     
     
     <category term="虚拟机" scheme="http://zouxingyuks.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
@@ -121,7 +138,7 @@
     
     
     
-    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/experience/"/>
     
     
     <category term="Linux" scheme="http://zouxingyuks.github.io/tags/Linux/"/>
@@ -375,10 +392,10 @@
     
     
     
-    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/experience/"/>
     
     
-    <category term="博客" scheme="http://zouxingyuks.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="http://zouxingyuks.github.io/tags/blog/"/>
     
   </entry>
   
@@ -387,7 +404,7 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/bo-ke-gong-neng-tian-jia-ji-you-hua/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/bo-ke-gong-neng-tian-jia-ji-you-hua/</id>
     <published>2022-06-03T18:23:50.000Z</published>
-    <updated>2022-06-06T12:29:06.290Z</updated>
+    <updated>2022-06-06T13:01:23.587Z</updated>
     
     
       
@@ -403,10 +420,10 @@
     
     
     
-    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/experience/"/>
     
     
-    <category term="博客" scheme="http://zouxingyuks.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="http://zouxingyuks.github.io/tags/blog/"/>
     
   </entry>
   
@@ -460,7 +477,7 @@
     
     
     
-    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/experience/"/>
     
     
     <category term="npm" scheme="http://zouxingyuks.github.io/tags/npm/"/>
