@@ -18,8 +18,8 @@
   
   <entry>
     <title>VMware 安装 Ubuntu</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/VMware%E5%AE%89%E8%A3%85Ubuntu/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/VMware%E5%AE%89%E8%A3%85Ubuntu/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/05/vmware-an-zhuang-ubuntu/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/vmware-an-zhuang-ubuntu/</id>
     <published>2022-06-05T13:43:53.000Z</published>
     <updated>2022-06-05T14:12:20.808Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>Go语言学习历程</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/Go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/Go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/05/go-yu-yan-xue-xi-li-cheng/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/go-yu-yan-xue-xi-li-cheng/</id>
     <published>2022-06-05T13:07:36.000Z</published>
     <updated>2022-06-05T13:38:41.868Z</updated>
     
@@ -73,8 +73,8 @@
   
   <entry>
     <title>Ubuntu命令集</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/Ubuntu%E5%91%BD%E4%BB%A4%E9%9B%86/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/Ubuntu%E5%91%BD%E4%BB%A4%E9%9B%86/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/05/ubuntu-ming-ling-ji/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/ubuntu-ming-ling-ji/</id>
     <published>2022-06-05T12:02:17.000Z</published>
     <updated>2022-06-05T12:03:39.785Z</updated>
     
@@ -103,10 +103,10 @@
   
   <entry>
     <title>win10系统右键菜单空白不显示解决方法</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/win10%E7%B3%BB%E7%BB%9F%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E7%A9%BA%E7%99%BD%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/05/win10-xi-tong-you-jian-cai-dan-kong-bai-bu-xian-shi-jie-jue-fang-fa/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/win10-xi-tong-you-jian-cai-dan-kong-bai-bu-xian-shi-jie-jue-fang-fa/</id>
     <published>2022-06-05T09:32:53.000Z</published>
-    <updated>2022-06-05T12:37:28.579Z</updated>
+    <updated>2022-06-06T11:52:54.401Z</updated>
     
     
       
@@ -120,23 +120,19 @@
     
     
     
-    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    <category term="Windows" scheme="http://zouxingyuks.github.io/categories/Windows/"/>
     
-    <category term="Window" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/Window/"/>
-    
-    <category term="Win10" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/Window/Win10/"/>
+    <category term="Win10" scheme="http://zouxingyuks.github.io/categories/Windows/Win10/"/>
     
     
-    <category term="Window" scheme="http://zouxingyuks.github.io/tags/Window/"/>
-    
-    <category term="Win10" scheme="http://zouxingyuks.github.io/tags/Win10/"/>
+    <category term="经验" scheme="http://zouxingyuks.github.io/tags/%E7%BB%8F%E9%AA%8C/"/>
     
   </entry>
   
   <entry>
     <title>c++ 快速输入</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/c++%E5%BF%AB%E9%80%9F%E8%BE%93%E5%85%A5/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/c++%E5%BF%AB%E9%80%9F%E8%BE%93%E5%85%A5/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/05/c-kuai-su-shu-ru/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/c-kuai-su-shu-ru/</id>
     <published>2022-06-05T09:28:38.000Z</published>
     <updated>2022-06-05T11:35:01.000Z</updated>
     
@@ -163,8 +159,8 @@
   
   <entry>
     <title>Maximum Sum of Minimum</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/Maximum%20Sum%20of%20Minimum%E9%A2%98%E8%A7%A3/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/Maximum%20Sum%20of%20Minimum%E9%A2%98%E8%A7%A3/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/05/maximum-sum-of-minimum-ti-jie/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/maximum-sum-of-minimum-ti-jie/</id>
     <published>2022-06-05T08:17:26.000Z</published>
     <updated>2022-06-05T11:58:41.494Z</updated>
     
@@ -192,8 +188,8 @@
   
   <entry>
     <title>中文文案排版指南</title>
-    <link href="http://zouxingyuks.github.io/2022/06/05/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/"/>
-    <id>http://zouxingyuks.github.io/2022/06/05/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%88%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/05/zhong-wen-wen-an-pai-ban-zhi-nan/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/zhong-wen-wen-an-pai-ban-zhi-nan/</id>
     <published>2022-06-05T08:08:49.000Z</published>
     <updated>2022-06-05T11:35:01.000Z</updated>
     
@@ -218,8 +214,8 @@
   
   <entry>
     <title>Ubuntu 安装笔记</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/Ubuntu%20%E5%AE%89%E8%A3%85%E7%AC%94%E8%AE%B0/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/04/ubuntu-an-zhuang-bi-ji/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/ubuntu-an-zhuang-bi-ji/</id>
     <published>2022-06-04T11:30:31.000Z</published>
     <updated>2022-06-05T11:35:01.000Z</updated>
     
@@ -257,8 +253,8 @@
   
   <entry>
     <title>快速幂</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/%E5%BF%AB%E9%80%9F%E5%B9%82/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/%E5%BF%AB%E9%80%9F%E5%B9%82/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/04/kuai-su-mi/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/kuai-su-mi/</id>
     <published>2022-06-04T11:09:05.000Z</published>
     <updated>2022-06-05T11:35:01.000Z</updated>
     
@@ -282,24 +278,23 @@
   
   <entry>
     <title>注册表清理</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/%E6%B3%A8%E5%86%8C%E8%A1%A8%E6%B8%85%E7%90%86/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/04/zhu-ce-biao-qing-li/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/zhu-ce-biao-qing-li/</id>
     <published>2022-06-04T04:18:01.000Z</published>
-    <updated>2022-06-05T11:35:01.000Z</updated>
+    <updated>2022-06-06T11:52:55.985Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;伴随着系统运行时间不断增长，我们的电脑 注册表 </summary>
+    <summary type="html">&lt;p&gt;伴随着系统运行时间不断增长，我们的电脑 注册表 </summary>
         
       
     
     
     
-    <category term="Windows相关" scheme="http://zouxingyuks.github.io/categories/Windows%E7%9B%B8%E5%85%B3/"/>
+    <category term="Windows" scheme="http://zouxingyuks.github.io/categories/Windows/"/>
     
     
     <category term="经验" scheme="http://zouxingyuks.github.io/tags/%E7%BB%8F%E9%AA%8C/"/>
@@ -308,8 +303,8 @@
   
   <entry>
     <title>图床</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/%E5%9B%BE%E5%BA%8A/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/%E5%9B%BE%E5%BA%8A/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/04/tu-chuang/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/tu-chuang/</id>
     <published>2022-06-04T03:40:52.000Z</published>
     <updated>2022-06-05T11:35:01.000Z</updated>
     
@@ -334,8 +329,8 @@
   
   <entry>
     <title>hexo 个人博客搭建及美化</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/04/hexo-ge-ren-bo-ke-da-jian-ji-mei-hua/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/hexo-ge-ren-bo-ke-da-jian-ji-mei-hua/</id>
     <published>2022-06-04T03:38:01.000Z</published>
     <updated>2022-06-05T13:13:45.681Z</updated>
     
@@ -359,8 +354,8 @@
   
   <entry>
     <title>博客功能添加及优化</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0%E5%8F%8A%E4%BC%98%E5%8C%96/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B7%BB%E5%8A%A0%E5%8F%8A%E4%BC%98%E5%8C%96/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/04/bo-ke-gong-neng-tian-jia-ji-you-hua/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/bo-ke-gong-neng-tian-jia-ji-you-hua/</id>
     <published>2022-06-03T18:23:50.000Z</published>
     <updated>2022-06-05T11:35:01.000Z</updated>
     
@@ -387,8 +382,8 @@
   
   <entry>
     <title>中国剩余定理</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/%E4%B8%AD%E5%9B%BD%E5%89%A9%E4%BD%99%E5%AE%9A%E7%90%86/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/04/zhong-guo-sheng-yu-ding-li/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/zhong-guo-sheng-yu-ding-li/</id>
     <published>2022-06-03T17:30:56.000Z</published>
     <updated>2022-06-05T11:35:01.000Z</updated>
     
@@ -417,8 +412,8 @@
   
   <entry>
     <title>npm-错误码及其解决方法</title>
-    <link href="http://zouxingyuks.github.io/2022/06/04/npm-%E9%94%99%E8%AF%AF%E7%A0%81%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
-    <id>http://zouxingyuks.github.io/2022/06/04/npm-%E9%94%99%E8%AF%AF%E7%A0%81%E5%8F%8A%E5%85%B6%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
+    <link href="http://zouxingyuks.github.io/2022/06/04/npm-cuo-wu-ma-ji-qi-jie-jue-fang-fa/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/npm-cuo-wu-ma-ji-qi-jie-jue-fang-fa/</id>
     <published>2022-06-03T17:15:11.000Z</published>
     <updated>2022-06-05T11:35:01.000Z</updated>
     
