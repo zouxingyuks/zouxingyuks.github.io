@@ -249,9 +249,9 @@
     <category term="软件安装" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
     
     
-    <category term="Linux" scheme="http://zouxingyuks.github.io/tags/Linux/"/>
-    
     <category term="Ubuntu" scheme="http://zouxingyuks.github.io/tags/Ubuntu/"/>
+    
+    <category term="Linux" scheme="http://zouxingyuks.github.io/tags/Linux/"/>
     
   </entry>
   
