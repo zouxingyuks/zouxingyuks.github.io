@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>VMware 安装 Ubuntu</title>
+      <link href="/2022/06/05/VMware%E5%AE%89%E8%A3%85Ubuntu/"/>
+      <url>/2022/06/05/VMware%E5%AE%89%E8%A3%85Ubuntu/</url>
+      
+        <content type="html"><![CDATA[<h1>**虚拟机 VMware **</h1><h2 id="下载-2"><strong>下载</strong></h2><p>官网下载地址：<a href="https://www.vmware.com/cn/products/workstation-pro.html">https://www.vmware.com/cn/products/workstation-pro.html</a><br>以下为官网界面</p><ol><li></li></ol><p><img src="https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206052153634.png" alt="1"></p><ol start="2"><li></li></ol><p><img src="https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206052153686.png" alt=""></p><h2 id="安装">安装</h2><p>1.前面没啥好讲的，不停下一步就行</p><ol start="2"><li></li></ol><p><img src="https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206052211221.png" alt="image-20220605221121185"></p><p>为了方便管理，我开辟了一个新的磁盘分区专门来放虚拟机和安装在虚拟机上的系统。比如我电脑中 VMware 的安装位置就是<code>E:\VMware\</code> 。注：虚拟机最好安装在固态硬盘上。</p><p>3.接下来继续无脑下一步就行</p><p>4.等待，等待过程中可能出现鼠标晃动，屏幕闪烁现象，这都是正常的。</p><p>5.安装完成后的第一次启动会需要许可证密钥。（悄悄提示一下，可以百度搜索有效的许可证密钥。）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 经验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 虚拟机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Go语言学习历程</title>
+      <link href="/2022/06/05/Go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B/"/>
+      <url>/2022/06/05/Go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h1>开发环境搭建</h1><h2 id="下载">下载</h2><p>Go官网下载地址：<a href="https://golang.org/dl/">https://golang.org/dl/</a></p><p>Go官方镜像站（推荐）：<a href="https://golang.google.cn/dl/">https://golang.google.cn/dl/</a></p><h1>特别感谢</h1><p><a href="https://www.liwenzhou.com">李文周的博客</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 语言学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Go </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ubuntu命令集</title>
       <link href="/2022/06/05/Ubuntu%E5%91%BD%E4%BB%A4%E9%9B%86%20/"/>
       <url>/2022/06/05/Ubuntu%E5%91%BD%E4%BB%A4%E9%9B%86%20/</url>
@@ -143,9 +193,9 @@
       
         <tags>
             
-            <tag> Ubuntu </tag>
-            
             <tag> Linux </tag>
+            
+            <tag> Ubuntu </tag>
             
         </tags>
       

@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-05T12:03:39.785Z</updated>
+  <updated>2022-06-05T14:12:20.808Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>VMware 安装 Ubuntu</title>
+    <link href="http://zouxingyuks.github.io/2022/06/05/VMware%E5%AE%89%E8%A3%85Ubuntu/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/VMware%E5%AE%89%E8%A3%85Ubuntu/</id>
+    <published>2022-06-05T13:43:53.000Z</published>
+    <updated>2022-06-05T14:12:20.808Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;**虚拟机 VMware **&lt;/h1&gt;
+&lt;h2 id=&quot;下载-2&quot;&gt;&lt;strong&gt;下载&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;官网下载地址：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    
+    
+    <category term="虚拟机" scheme="http://zouxingyuks.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Go语言学习历程</title>
+    <link href="http://zouxingyuks.github.io/2022/06/05/Go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B/"/>
+    <id>http://zouxingyuks.github.io/2022/06/05/Go%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B/</id>
+    <published>2022-06-05T13:07:36.000Z</published>
+    <updated>2022-06-05T13:38:41.868Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;开发环境搭建&lt;/h1&gt;
+&lt;h2 id=&quot;下载&quot;&gt;下载&lt;/h2&gt;
+&lt;p&gt;Go官网下载地址：&lt;a href=&quot;https://golang.org/dl/&quot;&gt;https://golang.org/dl/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Go官方镜像站（推荐）：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="语言学习" scheme="http://zouxingyuks.github.io/categories/%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Go" scheme="http://zouxingyuks.github.io/tags/Go/"/>
+    
+  </entry>
   
   <entry>
     <title>Ubuntu命令集</title>
@@ -194,9 +249,9 @@
     <category term="软件安装" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
     
     
-    <category term="Ubuntu" scheme="http://zouxingyuks.github.io/tags/Ubuntu/"/>
-    
     <category term="Linux" scheme="http://zouxingyuks.github.io/tags/Linux/"/>
+    
+    <category term="Ubuntu" scheme="http://zouxingyuks.github.io/tags/Ubuntu/"/>
     
   </entry>
   
@@ -282,7 +337,7 @@
     <link href="http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/"/>
     <id>http://zouxingyuks.github.io/2022/06/04/hexo-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8F%8A%E7%BE%8E%E5%8C%96/</id>
     <published>2022-06-04T03:38:01.000Z</published>
-    <updated>2022-06-05T12:23:51.876Z</updated>
+    <updated>2022-06-05T13:13:45.681Z</updated>
     
     
       
