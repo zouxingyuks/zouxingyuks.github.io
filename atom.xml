@@ -6,7 +6,7 @@
   <link href="http://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="http://zouxingyuks.github.io/"/>
-  <updated>2022-06-05T14:12:20.808Z</updated>
+  <updated>2022-06-06T12:12:46.412Z</updated>
   <id>http://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo使用</title>
+    <link href="http://zouxingyuks.github.io/2022/06/06/hexo-shi-yong/"/>
+    <id>http://zouxingyuks.github.io/2022/06/06/hexo-shi-yong/</id>
+    <published>2022-06-06T12:10:24.000Z</published>
+    <updated>2022-06-06T12:12:46.412Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;文章 Front-matter 介绍&lt;/h1&gt;
+&lt;h2 id=&quot;Front-matter-选项详解&quot;&gt;Front-matter 选项详解&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;Front-matter&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="http://zouxingyuks.github.io/categories/%E7%BB%8F%E9%AA%8C/"/>
+    
+    
+    <category term="博客" scheme="http://zouxingyuks.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>VMware 安装 Ubuntu</title>
@@ -242,7 +269,7 @@
     
     <category term="笔记" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="软件安装" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
+    <category term="软件安装" scheme="http://zouxingyuks.github.io/categories/%E7%AC%94%E8%AE%B0/SoftwareInstallation/"/>
     
     
     <category term="Ubuntu" scheme="http://zouxingyuks.github.io/tags/Ubuntu/"/>
@@ -377,6 +404,36 @@
     
     
     <category term="博客" scheme="http://zouxingyuks.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中国剩余定理</title>
+    <link href="http://zouxingyuks.github.io/2022/06/04/zhong-guo-sheng-yu-ding-li/"/>
+    <id>http://zouxingyuks.github.io/2022/06/04/zhong-guo-sheng-yu-ding-li/</id>
+    <published>2022-06-03T17:30:56.000Z</published>
+    <updated>2022-06-06T12:14:42.017Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;证明&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/zouxingyuks/images/202206041914847.jpg&quot; alt=&quot;中国剩余定理证明&quot;&gt;&lt;/p&gt;
+&lt;h1&gt;代码&lt;/h1&gt;
+&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="http://zouxingyuks.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="算法" scheme="http://zouxingyuks.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="数论" scheme="http://zouxingyuks.github.io/tags/%E6%95%B0%E8%AE%BA/"/>
     
   </entry>
   
