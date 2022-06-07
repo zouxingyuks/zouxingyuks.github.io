@@ -1,8 +1,9 @@
-https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/07/github-jia-su/
-https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/06/rss-shi-yong-ji-qi-yuan-li/
-https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/hexo-ge-ren-bo-ke-da-jian-ji-mei-hua/
-https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/bo-ke-gong-neng-tian-jia-ji-you-hua/
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/ubuntu-an-zhuang-bi-ji/
+https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/07/github-jia-su/
+https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/hexo-ge-ren-bo-ke-da-jian-ji-mei-hua/
+https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/tu-chuang/
+https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/06/rss-shi-yong-ji-qi-yuan-li/
+https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/bo-ke-gong-neng-tian-jia-ji-you-hua/
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/zhu-ce-biao-qing-li/
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/05/win10-xi-tong-you-jian-cai-dan-kong-bai-bu-xian-shi-jie-jue-fang-fa/
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/06/hexo-shi-yong/
@@ -16,7 +17,6 @@ https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/05/maximum-sum-of-m
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/npm-cuo-wu-ma-ji-qi-jie-jue-fang-fa/
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/05/zhong-wen-wen-an-pai-ban-zhi-nan/
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/kuai-su-mi/
-https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/tu-chuang/
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/404/index.html
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/about/index.html
 https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/categories/index.html
