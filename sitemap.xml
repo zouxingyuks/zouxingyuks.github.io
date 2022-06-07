@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/tu-chuang/</loc>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/kuai-su-mi/</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/kuai-su-mi/</loc>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/04/tu-chuang/</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/categories/index.html</loc>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/about/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/about/index.html</loc>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/categories/index.html</loc>
     
     <lastmod>2022-06-05</lastmod>
     
@@ -227,13 +227,6 @@
 
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/GitHub/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/Go/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,14 +234,14 @@
   </url>
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/AtCode/</loc>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/GitHub/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/RSS/</loc>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/AtCode/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -276,20 +269,6 @@
   </url>
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/blog/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -304,6 +283,34 @@
   </url>
   
   <url>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/RSS/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/npm/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/blog/</loc>
+    <lastmod>2022-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/Windows/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -312,13 +319,6 @@
   
   <url>
     <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/Win10/</loc>
-    <lastmod>2022-06-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/npm/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -341,14 +341,14 @@
 
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/categories/experience/</loc>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/categories/notes/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/categories/notes/</loc>
+    <loc>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/categories/experience/</loc>
     <lastmod>2022-06-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
