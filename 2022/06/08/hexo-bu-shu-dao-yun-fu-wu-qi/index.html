@@ -19,7 +19,9 @@ su git
 #创建.ssh目录：
 sudo mkdir .ssh &amp;&amp; chmod 700 .ssh
 #然后在云服务创建authorized_keys公钥保存文件：
-sudo touch .ssh&#x2F;authorized_keys &amp;&amp; chmod 600 .ssh&#x2F;authorized_keys<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h3 id="3、建git仓库目录-切回-root-账户">3、建git仓库目录(切回 root 账户)</h3><p>创建一个名为blog的git仓库</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">mkdir &#x2F;var&#x2F;repo
+sudo touch .ssh&#x2F;authorized_keys &amp;&amp; chmod 600 .ssh&#x2F;authorized_keys
+chmod 700 ~&#x2F;.ssh
+vim ~&#x2F;.ssh&#x2F;authorized_keys    #将ssh密钥粘贴进去<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>使用<code>cat ~/.ssh/id_rsa.pub</code>查看本地密钥，并复制粘贴</p><h3 id="3、建git仓库目录-切回-root-账户">3、建git仓库目录(切回 root 账户)</h3><p>创建一个名为blog的git仓库</p><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">mkdir &#x2F;var&#x2F;repo
 cd &#x2F;var&#x2F;repo
 git init --bare blog.git
 <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre><h3 id="4-配置-GIT-HOOKS">4.配置 GIT HOOKS</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">vim &#x2F;var&#x2F;repo&#x2F;blog.git&#x2F;hooks&#x2F;post-receive
