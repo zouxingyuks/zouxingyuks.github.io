@@ -6,7 +6,7 @@
   <link href="https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/"/>
-  <updated>2022-06-07T17:20:24.179Z</updated>
+  <updated>2022-06-07T19:28:59.487Z</updated>
   <id>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo部署到云服务器</title>
+    <link href="https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/08/hexo-bu-shu-dao-yun-fu-wu-qi/"/>
+    <id>https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/08/hexo-bu-shu-dao-yun-fu-wu-qi/</id>
+    <published>2022-06-07T16:31:46.000Z</published>
+    <updated>2022-06-07T19:28:59.487Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;a&lt;/p&gt;
+&lt;h1&gt;安装&lt;/h1&gt;
+&lt;h2 id=&quot;一、安装-Node-js&quot;&gt;一、安装 Node.js&lt;/h2&gt;
+&lt;h3 id=&quot;Ubuntu&quot;&gt;Ubuntu&lt;/h3&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="博客" scheme="https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>GitHub加速</title>
@@ -351,7 +380,7 @@
         
         
     <summary type="html">&lt;h1&gt;快速幂&lt;/h1&gt;
-&lt;h2 id=&quot;原理-3&quot;&gt;原理&lt;/h2&gt;
+&lt;h2 id=&quot;原理-4&quot;&gt;原理&lt;/h2&gt;
 &lt;p&gt;一个数 k 均可以转换为二进制&lt;/p&gt;
 &lt;p&gt;如&lt;code&gt;10 (10)= 1010 (2)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;即&lt;code&gt;10 = 2 +</summary>

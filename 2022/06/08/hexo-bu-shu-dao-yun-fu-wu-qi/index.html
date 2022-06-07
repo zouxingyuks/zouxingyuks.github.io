@@ -4,24 +4,16 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="keywords" content="Ubuntu命令集, 整天摆烂">
-    <meta name="description" content="目录操作
-创建目录
-
-
-命令格式
-mkdir 文件夹名字
-
-
-命令参数
-
--m, --mode=模式，设定权限模式 (类似 chmod)
--p, --parents 可以创建一个多级目录
-
-
-
-删除目录
-rmdir是常用的命令，该命令的功能">
+    <meta name="keywords" content="Hexo部署到云服务器, 整天摆烂">
+    <meta name="description" content="a
+安装
+一、安装 Node.js
+Ubuntu
+sudo apt-get install nodejs
+sudo apt-get install npm
+sudo npm install -g n
+sudo n stable 
+CentO">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -44,7 +36,7 @@ rmdir是常用的命令，该命令的功能">
     </style>
 
 
-    <title>Ubuntu命令集 | Anubis</title>
+    <title>Hexo部署到云服务器 | Anubis</title>
     <link rel="icon" type="image/png" href="/favicon.png">
 
     <link rel="stylesheet" type="text/css" href="/libs/awesome/css/all.min.css">
@@ -273,12 +265,12 @@ rmdir是常用的命令，该命令的功能">
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/0.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/13.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">Ubuntu命令集</h1>
+                    <h1 class="description center-align post-title">Hexo部署到云服务器</h1>
                 </div>
             </div>
         </div>
@@ -394,8 +386,8 @@ rmdir是常用的命令，该命令的功能">
                     
                     <div class="article-tag">
                         
-                            <a href="/tags/Linux/">
-                                <span class="chip bg-color">Linux</span>
+                            <a href="/tags/blog/">
+                                <span class="chip bg-color">博客</span>
                             </a>
                         
                     </div>
@@ -419,14 +411,14 @@ rmdir是常用的命令，该命令的功能">
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2022-06-05
+                    2022-06-08
                 </div>
                 
 
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2022-06-05
+                    2022-06-08
                 </div>
                 
 
@@ -435,7 +427,7 @@ rmdir是常用的命令，该命令的功能">
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    6 分
+                    2 分
                 </div>
                 
 
@@ -458,202 +450,76 @@ rmdir是常用的命令，该命令的功能">
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h3 id="目录操作">目录操作</h3>
-<h4 id="创建目录">创建目录</h4>
+                <p>a</p>
+<h1>安装</h1>
+<h2 id="一、安装-Node-js">一、安装 Node.js</h2>
+<h3 id="Ubuntu">Ubuntu</h3>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">sudo apt-get install nodejs
+sudo apt-get install npm
+sudo npm install -g n
+sudo n stable <span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre>
+<h3 id="CentOS">CentOS</h3>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">yum install gcc-c++ make
+yum -y install nodejs<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
+<h3 id="验证">验证</h3>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">node -v 
+npm -v<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
+<h2 id="二、安装-Git-和-Nginx">二、安装 Git 和 Nginx</h2>
+<h3 id="Ubuntu-2">Ubuntu</h3>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">sudo apt update
+sudo apt install git
+sudo apt-get install nginx<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+<h3 id="CentOS-2">CentOS</h3>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">yum install git nginx -y
+<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<h1>配置</h1>
+<h2 id="Git-配置">Git 配置</h2>
+<h3 id="1、在云服务器上创建一个-GIT-用户，用来运行-GIT-服务">1、在云服务器上创建一个 GIT 用户，用来运行 GIT 服务</h3>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">sudo adduser git<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p>然后输入密码（虽然看不见，但是确实有输进去）</p>
+<p>然后一路回车，最后按 y</p>
+<h3 id="2、创建证书-（如果用账号密码登录的话，这一步不用执行）">2、创建证书 （如果用账号密码登录的话，这一步不用执行）</h3>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">#切换到git用户：
+su git
+#创建.ssh目录：
+sudo mkdir .ssh &amp;&amp; chmod 700 .ssh
+#然后在云服务创建authorized_keys公钥保存文件：
+sudo touch .ssh&#x2F;authorized_keys &amp;&amp; chmod 600 .ssh&#x2F;authorized_keys<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<h3 id="3、建git仓库目录-切回-root-账户">3、建git仓库目录(切回 root 账户)</h3>
+<p>创建一个名为blog的git仓库</p>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">mkdir &#x2F;var&#x2F;repo
+cd &#x2F;var&#x2F;repo
+git init --bare blog.git
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
+<h3 id="4-配置-GIT-HOOKS">4.配置 GIT HOOKS</h3>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">vim &#x2F;var&#x2F;repo&#x2F;blog.git&#x2F;hooks&#x2F;post-receive
+<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
+<p>添加</p>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">#!&#x2F;bin&#x2F;sh
+git --work-tree&#x3D;&#x2F;var&#x2F;www&#x2F;hexo --git-dir&#x3D;&#x2F;var&#x2F;repo&#x2F;blog.git checkout -f
+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
+<p>然后保存退出，并设置权限</p>
+<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">chmod +x &#x2F;var&#x2F;repo&#x2F;blog.git&#x2F;hooks&#x2F;post-receive
+chown -R git:git blog.git<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
+<h3 id="5、为了安全考虑，禁用GIT用户的SHELL-登录权限配置">5、为了安全考虑，禁用GIT用户的SHELL 登录权限配置</h3>
+<p>这样git用户就只能用来执行脚本，无法切换到shell界面。</p>
+<p>下面两个步骤非常重要，否则客户端总是提示密码错误！！！</p>
+<ul>
+<li>首先你必须确保 git-shell 已存在于 /etc/shells 文件中
 <ol>
-<li>
-<h5 id="命令格式">命令格式</h5>
-<pre class="line-numbers language-none"><code class="language-none">mkdir 文件夹名字<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-</li>
-<li>
-<h5 id="命令参数">命令参数</h5>
-<ol>
-<li><code>-m</code>, --mode=模式，设定权限模式 (类似 <code>chmod</code>)</li>
-<li><code>-p</code>, --parents 可以创建一个多级目录</li>
+<li>使用命令<code>which git-shell</code>判断系统是否安装了git-shell。如果已经安装，则返回 git-shell 的安装目录，如：/usr/bin/git-shell；如果未安装则需要安装git-shell命令，安装命令：<strong>参考上文</strong></li>
+<li>判断shells文件是否存在，判断命令：<code>cat /etc/shells</code> 如果文件不存在或没有 /usr/bin/git-shell ，则需要使用vim增加这个路径：<code>sudo vim /etc/shells</code>，在最后一行添加 git-shell 路径 <code>/usr/bin/git-shell # 添加你的git-shell</code></li>
 </ol>
 </li>
-</ol>
-<h4 id="删除目录">删除目录</h4>
-<p><code>rmdir</code>是常用的命令，该命令的功能是<strong>删除空目录</strong>，一个目录被删除之前必须是空的。删除某目录时也必须具有对父目录的写权限。</p>
-<pre class="line-numbers language-none"><code class="language-none">rmdir 文件夹名字<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<h3 id="分配操作权限">分配操作权限</h3>
-<pre class="line-numbers language-none"><code class="language-none">sudo chmod -R 777 &#x2F;code&#x2F;Goland<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<p>其中<br>
--R 是指级联应用到目录里的所有子目录和文件<br>
-777 是所有用户都拥有最高权限<br>
-/code/Goland 是需要放行的文件夹</p>
-<h3 id="创建文件">创建文件</h3>
+<li>现在你可以使用 chsh 命令修改任一系统用户的 shell 权限了
 <ol>
-<li>
-<h4 id="命令格式-2">命令格式</h4>
-<pre class="line-numbers language-none"><code class="language-none">touch 文件名字.后缀<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-</li>
-<li>
-<h4 id="命令参数-2">命令参数</h4>
-<ol>
-<li><code>-a</code>  或–time=atime或–time=access或–time=use 只更改存取时间。</li>
-<li><code>-c</code>  或–no-create 不建立任何文档。</li>
-<li><code>-d</code> 使用指定的日期时间，而非现在的时间。</li>
-<li><code>-f</code> 此参数将忽略不予处理，仅负责解决BSD版本touch指令的兼容性问题。</li>
-<li><code>-m</code>  或–time=mtime或–time=modify 只更改变动时间。</li>
-<li><code>-r</code> 把指定文档或目录的日期时间，统统设成和参考文档或目录的日期时间相同。</li>
-<li><code>-t</code> 使用指定的日期时间，而非现在的时间。</li>
+<li>现在我们修改第一步中创建的git用户的登录权限，禁止git用户使用shell权限：终端中输入<code>sudo chsh git</code></li>
+<li>在<code>Login Shell [/bin/bash]: </code>后输入 git-shell路径：<code>/usr/bin/git-shell</code></li>
+<li>修改完成后验证：<code>vim /etc/passwd</code>找到类似<code>git:x:1000:1000:,,,:/home/git:/usr/bin/git-shell</code>，看看 git 用户是否是以 git-shell 结尾</li>
 </ol>
 </li>
-</ol>
-<h3 id="删除文件和目录">删除文件和目录</h3>
-<h4 id="rm命令"><code>rm</code>命令</h4>
-<p><code>rm</code>是常用的命令，该命令的功能为删除一个目录中的一个或多个文件或目录，它也可以将某个目录及其下的所有文件及子目录均删除。对于链接文件，只是删除了链接，原有文件均保持不变。</p>
-<h4 id="命令格式-3">命令格式</h4>
-<pre class="line-numbers language-sh" data-language="sh"><code class="language-sh">rm [选项] 文件… <span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<h4 id="命令参数-3">命令参数</h4>
-<p><code>-f</code>, --force  忽略不存在的文件，从不给出提示。</p>
-<p><code>-i</code>, --interactive 进行交互式删除</p>
-<p><code>-r</code>, -R, --recursive  指示<code>rm</code>将参数中列出的全部目录和子目录均递归地删除。</p>
-<h4 id="实例">实例</h4>
-<pre class="line-numbers language-sh" data-language="sh"><code class="language-sh">rm test.txt # 删除文件，系统会询问
-rm -f test.txt # 强制删除，不询问
-rm test&#x2F;    # 删除目录，系统会询问
-rm -f test&#x2F; # 删除目录，不询问
-rm -rf test&#x2F; # 递归删除目录及下面文件，不询问
-rm -rf test* # 删除以test开头的文件，不询问
-rm -rf *.txt *.log<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<h3 id="Linux移动文件和目录">Linux移动文件和目录</h3>
-<h4 id="移动文件和目录mv">移动文件和目录<code>mv</code></h4>
-<p><code>mv</code>命令是 move 的缩写，可以用来移动文件或者将文件<strong>改名</strong>（move (rename) files），是 Linux 系统下常用的命令，经常用来<strong>备份</strong>文件或者目录。</p>
-<h4 id="命令格式-4">命令格式</h4>
-<pre class="line-numbers language-sh" data-language="sh"><code class="language-sh">mv [选项] 源文件或目录 目标文件或目录<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<h4 id="命令参数-4">命令参数</h4>
-<p><code>-b</code> ：若需覆盖文件，则覆盖前先行备份。</p>
-<p><code>-f</code> ：force 强制的意思，如果目标文件已经存在，不会询问而直接覆盖；</p>
-<p><code>-i</code> ：若目标文件 (destination) 已经存在时，就会询问是否覆盖！</p>
-<p><code>-u</code> ：若目标文件已经存在，且 source 比较新，才会更新(update)</p>
-<p><code>-t</code>  ： 即指定<code>mv</code>的目标目录，该选项适用于移动多个源文件到一个目录的情况，此时目标目录在前，源文件在后。</p>
-<h4 id="实例-2">实例</h4>
-<pre class="line-numbers language-sh" data-language="sh"><code class="language-sh">mv test1.txt test2.txt # 重命名
-mv test1.txt test2.txt test      # 移动文件
-mv -t test test1.txt test2.txt   # 移动文件
-mv test* test                    # 使用通配符
-mv -i test1.txt test2.txt        # 将文件file1改名为file2，如果file2已经存在，则询问是否覆盖
-mv -f test1.txt test2.txt        # 将文件file1改名为file2，即使file2存在，也是直接覆盖掉。
-mv test1 test2                   # 移动目录
-mv * ..&#x2F;                         # 移动当前文件夹下的所有文件到上一级目录
-mv test3&#x2F;*.txt test5             # 把当前目录的一个子目录里的文件移动到另一个子目录里<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<h3 id="拷贝文件和目录">拷贝文件和目录</h3>
-<h4 id="cp命令拷贝文件和目录"><code>cp</code>命令拷贝文件和目录</h4>
-<p><code>cp</code>命令用来复制文件或者目录，是 Linux 系统中最常用的命令之一</p>
-<h4 id="命令格式-5">命令格式</h4>
-<pre class="line-numbers language-sh" data-language="sh"><code class="language-sh">cp [选项]... [-T] 源 目的
-或：cp [选项]... 源... 目录
-或：cp [选项]... -t 目录 源...<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
-<h4 id="命令参数-5">命令参数</h4>
-<table>
-<thead>
-<tr>
-<th>参数</th>
-<th>长参数</th>
-<th>描叙</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>-a</td>
-<td></td>
-<td>等同于-dR</td>
-</tr>
-<tr>
-<td>-b</td>
-<td></td>
-<td>若删除或者覆盖目标文件，将对目标文件进行备份，备份文件以备份的字符串结尾 .bak</td>
-</tr>
-<tr>
-<td>-d</td>
-<td></td>
-<td>复制符号链接</td>
-</tr>
-<tr>
-<td>-f</td>
-<td></td>
-<td>强制复制</td>
-</tr>
-<tr>
-<td>-h</td>
-<td></td>
-<td>强制cp命令复制符号链接。缺省值是跟随符号链接，也就是将文件复制到符号链接指向处。</td>
-</tr>
-<tr>
-<td>-i</td>
-<td></td>
-<td>交互式模式。覆盖目标文件之前先要进行询问</td>
-</tr>
-<tr>
-<td>-l</td>
-<td></td>
-<td>建立硬链接，而非复制</td>
-</tr>
-<tr>
-<td>-p</td>
-<td></td>
-<td>源目录或者文件的属性保留(修改日期、时间和访问控制列表等)</td>
-</tr>
-<tr>
-<td>-P</td>
-<td></td>
-<td>源目录或者文件的路劲保留</td>
-</tr>
-<tr>
-<td>-r/R</td>
-<td></td>
-<td>处理指定目录以及子目录</td>
-</tr>
-</tbody>
-</table>
-<h4 id="实例-3">实例</h4>
-<pre class="line-numbers language-sh" data-language="sh"><code class="language-sh">cp t1.txt test 		# 复制单个文件到目标目录，目标文件存在时，会询问是否覆盖
-cp -r test1 test2 		# 复制目录需要加-r参数
-cp -rf test1&#x2F;* test2 	# 强制递归复制test1下面的所有内容到test2，不提示
-cp * ..&#x2F;   			# 复制当前目录下面的文件到父母录
-cp -rf * ..&#x2F; 			# 复制文件和目录到父目录<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-<h3 id="Linux显示合并文件">Linux显示合并文件</h3>
-<h4 id="cat命令"><code>cat</code>命令</h4>
-<p>cat命令的用途是连接文件或标准输入并打印。这个命令常用来显示文件内容，或者将几个文件连接起来显示，或者从标准输入读取内容并显示，它常与重定向符号配合使用。</p>
-<h4 id="命令格式-6">命令格式</h4>
-<pre class="line-numbers language-sh" data-language="sh"><code class="language-sh">cat [选项] [文件]...<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-<h4 id="三大功能">三大功能</h4>
-<ol>
-<li>一次显示整个文件:<code>cat filename</code></li>
-<li>从键盘创建一个文件:<code>cat &gt; filename</code> 只能创建新文件，不能编辑已有文件.</li>
-<li>将几个文件合并为一个文件:<code>cat file1 file2 &gt; file</code></li>
-</ol>
-<h4 id="命令参数-6">命令参数</h4>
-<p>-A,  --show-all     等价于 -vET</p>
-<p>-b, --number-nonblank  对非空输出行编号</p>
-<p>-e   等价于 -vE</p>
-<p>-E, --show-ends    在每行结束处显示 $</p>
-<p>-n,  --number   对输出的所有行编号,由1开始对所有输出的行数编号</p>
-<p>-s, --squeeze-blank 有连续两行以上的空白行，就代换为一行的空白行</p>
-<p>-t            与 -vT 等价</p>
-<p>-T, --show-tabs     将跳格字符显示为 ^I</p>
-<p>-u            (被忽略)</p>
-<p>-v, --show-nonprinting  使用 ^ 和 M- 引用，除了 LFD 和 TAB 之外</p>
-<h4 id="实例-4">实例</h4>
-<pre class="line-numbers language-sh" data-language="sh"><code class="language-sh"> cat test.txt  				# 显示test.txt文件内容
- cat test1.txt test2.txt 	# 同时显示这两个文件内容
- cat &gt; t1.txt               # 从键盘输入内容到t1.txt ctrl+d 结束
- cat &gt; test2.txt &lt;&lt; EOF     # 从键盘输入内容到t1.txt使用EOF作为文件结束
- &gt; test1
- &gt; test2
- &gt; EOF
- cat &lt;&lt; EOF &gt; test2.txt      # 从键盘输入内容到t1.txt使用EOF作为文件结束（也可以放在前面）
- cat t1.txt t2.txt &gt; t3.txt  # 将t1 t2合并到t3 覆盖
- cat t1.txt t2.txt &gt;&gt; t3.txt  # 将t1 t2合并到t3 追加不是覆盖
- 
-# 快速编辑一个文件
-cat &gt;&gt; hosts &lt;&lt; EOF
-192.168.18.128 node01
-192.168.18.138 node02
-192.168.18.148 node03
-EOF<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
+<li>这样，git 用户就只能使用 SSH 连接对 Git 仓库进行推送和拉取操作，而不能登录机器并取得普通 shell 命令</li>
+</ul>
 
                 
             </div>
@@ -680,7 +546,7 @@ EOF<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/05/ubuntu-ming-ling-ji/">https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/05/ubuntu-ming-ling-ji/</a>
+                    <a href="https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/08/hexo-bu-shu-dao-yun-fu-wu-qi/">https://fastly.jsdelivr.net/gh/zouxingyuks.github.io/2022/06/08/hexo-bu-shu-dao-yun-fu-wu-qi/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -718,8 +584,8 @@ EOF<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
                     
                         <div class="article-tag">
                             
-                                <a href="/tags/Linux/">
-                                    <span class="chip bg-color">Linux</span>
+                                <a href="/tags/blog/">
+                                    <span class="chip bg-color">博客</span>
                                 </a>
                             
                         </div>
@@ -893,17 +759,18 @@ EOF<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/2022/06/05/go-yu-yan-xue-xi-li-cheng/">
+                <a href="/2022/06/08/hexo-bu-shu-dao-yun-fu-wu-qi/">
                     <div class="card-image">
                         
                         
-                        <img src="./images/loading.gif" data-original="/medias/featureimages/2.jpg" class="responsive-img" alt="Go语言学习历程">
+                        <img src="./images/loading.gif" data-original="/medias/featureimages/13.jpg" class="responsive-img" alt="Hexo部署到云服务器">
                         
-                        <span class="card-title">Go语言学习历程</span>
+                        <span class="card-title">Hexo部署到云服务器</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -913,26 +780,27 @@ EOF<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2022-06-05
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2022-06-08
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/notes/" class="post-category">
-                                    笔记
+                            <a href="/categories/experience/" class="post-category">
+                                    经验
                                 </a>
                             
                             
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/Go/">
-                        <span class="chip bg-color">Go</span>
+                    <a href="/tags/blog/">
+                        <span class="chip bg-color">博客</span>
                     </a>
                     
                 </div>
@@ -946,13 +814,13 @@ EOF<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2022/06/05/win10-xi-tong-you-jian-cai-dan-kong-bai-bu-xian-shi-jie-jue-fang-fa/">
+                <a href="/2022/06/07/github-jia-su/">
                     <div class="card-image">
                         
                         
-                        <img src="./images/loading.gif" data-original="/medias/featureimages/15.jpg" class="responsive-img" alt="win10系统右键菜单空白不显示解决方法">
+                        <img src="./images/loading.gif" data-original="/medias/featureimages/18.jpg" class="responsive-img" alt="GitHub加速">
                         
-                        <span class="card-title">win10系统右键菜单空白不显示解决方法</span>
+                        <span class="card-title">GitHub加速</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -963,7 +831,7 @@ EOF<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2022-06-05
+                                <i class="far fa-clock fa-fw icon-date"></i>2022-06-07
                             </span>
                         <span class="publish-author">
                             
@@ -980,12 +848,8 @@ EOF<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span>
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/Windows/">
-                        <span class="chip bg-color">Windows</span>
-                    </a>
-                    
-                    <a href="/tags/Win10/">
-                        <span class="chip bg-color">Win10</span>
+                    <a href="/tags/GitHub/">
+                        <span class="chip bg-color">GitHub</span>
                     </a>
                     
                 </div>
