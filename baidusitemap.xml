@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zouxingyuks.github.io/2022/06/06/rss-shi-yong-ji-qi-yuan-li/</loc>
+    <lastmod>2022-06-07</lastmod>
+  </url>
+  <url>
+    <loc>http://zouxingyuks.github.io/2022/06/07/github-jia-su/</loc>
+    <lastmod>2022-06-07</lastmod>
+  </url>
+  <url>
+    <loc>http://zouxingyuks.github.io/2022/06/04/hexo-ge-ren-bo-ke-da-jian-ji-mei-hua/</loc>
+    <lastmod>2022-06-06</lastmod>
+  </url>
+  <url>
     <loc>http://zouxingyuks.github.io/2022/06/04/bo-ke-gong-neng-tian-jia-ji-you-hua/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
@@ -17,10 +29,6 @@
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
-    <loc>http://zouxingyuks.github.io/2022/06/06/rss-shi-yong-ji-qi-yuan-li/</loc>
-    <lastmod>2022-06-06</lastmod>
-  </url>
-  <url>
     <loc>http://zouxingyuks.github.io/2022/06/06/hexo-shi-yong/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
@@ -30,10 +38,6 @@
   </url>
   <url>
     <loc>http://zouxingyuks.github.io/2022/06/05/c-kuai-su-shu-ru/</loc>
-    <lastmod>2022-06-06</lastmod>
-  </url>
-  <url>
-    <loc>http://zouxingyuks.github.io/2022/06/04/hexo-ge-ren-bo-ke-da-jian-ji-mei-hua/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
   <url>
@@ -61,11 +65,11 @@
     <lastmod>2022-06-05</lastmod>
   </url>
   <url>
-    <loc>http://zouxingyuks.github.io/2022/06/04/tu-chuang/</loc>
+    <loc>http://zouxingyuks.github.io/2022/06/04/kuai-su-mi/</loc>
     <lastmod>2022-06-05</lastmod>
   </url>
   <url>
-    <loc>http://zouxingyuks.github.io/2022/06/04/kuai-su-mi/</loc>
+    <loc>http://zouxingyuks.github.io/2022/06/04/tu-chuang/</loc>
     <lastmod>2022-06-05</lastmod>
   </url>
 </urlset> 
