@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anubis | 邹星宇的个人博客</title>
+  
+  <subtitle>所有文章均持续滚动更新！</subtitle>
+  <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zouxingyuks.github.io/"/>
+  <updated>2022-07-22T12:31:12.654Z</updated>
+  <id>https://zouxingyuks.github.io/</id>
+  
+  <author>
+    <name>邹星宇</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欧拉定理</title>
+    <link href="https://zouxingyuks.github.io/b43957a0.html"/>
+    <id>https://zouxingyuks.github.io/b43957a0.html</id>
+    <published>2022-07-22T07:31:04.000Z</published>
+    <updated>2022-07-22T12:31:12.654Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置知识&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h2 id=&quot;原理&quot;&gt;原理&lt;/h2&gt;
+&lt;h2 id=&quot;代码实现&quot;&gt;代码实现&lt;/h2&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>欧拉函数</title>
+    <link href="https://zouxingyuks.github.io/f60286b9.html"/>
+    <id>https://zouxingyuks.github.io/f60286b9.html</id>
+    <published>2022-07-22T06:52:33.000Z</published>
+    <updated>2022-07-22T12:31:12.651Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;原理简介&quot;&gt;原理简介&lt;/h2&gt;
+&lt;p&gt;欧拉函数：对正整数 n ，欧拉函数是&lt;strong&gt;小于等于&lt;/strong&gt; n 的数中与 n 互质的数的&lt;strong&gt;数目&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;欧拉定理&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java快速复习笔记</title>
+    <link href="https://zouxingyuks.github.io/76138d27.html"/>
+    <id>https://zouxingyuks.github.io/76138d27.html</id>
+    <published>2022-07-05T07:22:30.000Z</published>
+    <updated>2022-07-05T16:43:53.278Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;Java 快速复习笔记&lt;/h1&gt;
+&lt;h2 id=&quot;复习重点&quot;&gt;复习重点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;优先级&lt;/li&gt;
+&lt;li&gt;变量大小&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;基本语法&quot;&gt;基本语法&lt;/h2&gt;
+&lt;h3 id=&quot;编写规范&quot;&gt;编写规范&lt;/h3&gt;
+&lt;p&gt;编写</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://zouxingyuks.github.io/categories/notes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>git</title>
+    <link href="https://zouxingyuks.github.io/518e617c.html"/>
+    <id>https://zouxingyuks.github.io/518e617c.html</id>
+    <published>2022-06-29T09:17:27.000Z</published>
+    <updated>2022-07-02T03:15:04.559Z</updated>
+    
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux命令</title>
+    <link href="https://zouxingyuks.github.io/82734d8.html"/>
+    <id>https://zouxingyuks.github.io/82734d8.html</id>
+    <published>2022-06-28T16:55:41.000Z</published>
+    <updated>2022-07-02T02:07:09.027Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文根据博主学习进度更新&lt;/p&gt;
+&lt;h2 id=&quot;工作目录切换命令&quot;&gt;工作目录切换命令&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;pwd&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;pwd&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="Linux" scheme="https://zouxingyuks.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>刻录光盘</title>
+    <link href="https://zouxingyuks.github.io/ff678a2a.html"/>
+    <id>https://zouxingyuks.github.io/ff678a2a.html</id>
+    <published>2022-06-28T16:01:52.000Z</published>
+    <updated>2022-06-28T17:16:36.075Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;题目分析&quot;&gt;题目分析&lt;/h2&gt;
+&lt;p&gt;裸的&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="题解" scheme="https://zouxingyuks.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="Tarjan" scheme="https://zouxingyuks.github.io/tags/Tarjan/"/>
+    
+    <category term="强连通分量" scheme="https://zouxingyuks.github.io/tags/%E5%BC%BA%E8%BF%9E%E9%80%9A%E5%88%86%E9%87%8F/"/>
+    
+    <category term="图论" scheme="https://zouxingyuks.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+    <category term="缩点" scheme="https://zouxingyuks.github.io/tags/%E7%BC%A9%E7%82%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DAG</title>
+    <link href="https://zouxingyuks.github.io/89085679.html"/>
+    <id>https://zouxingyuks.github.io/89085679.html</id>
+    <published>2022-06-28T11:28:18.000Z</published>
+    <updated>2022-06-28T16:20:12.536Z</updated>
+    
+    
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tarjan算法</title>
+    <link href="https://zouxingyuks.github.io/2fe8c294.html"/>
+    <id>https://zouxingyuks.github.io/2fe8c294.html</id>
+    <published>2022-06-28T11:12:26.000Z</published>
+    <updated>2022-06-28T16:25:18.263Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;算法原理&quot;&gt;算法原理&lt;/h2&gt;
+&lt;p&gt;通过</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>缩点</title>
+    <link href="https://zouxingyuks.github.io/48720ec7.html"/>
+    <id>https://zouxingyuks.github.io/48720ec7.html</id>
+    <published>2022-06-28T11:11:59.000Z</published>
+    <updated>2022-06-28T15:16:03.293Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;Tarjan算法&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>强连通分量（SCC）</title>
+    <link href="https://zouxingyuks.github.io/4b4a3d7.html"/>
+    <id>https://zouxingyuks.github.io/4b4a3d7.html</id>
+    <published>2022-06-28T08:25:37.000Z</published>
+    <updated>2022-06-28T11:23:22.796Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;强联通&quot;&gt;强联通&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;强连通（Strongly Connected）是指一个有向图（Directed Graph）中任意两点 v1、v2 间存在 v1 到 v2 的路径（path）及 v2 到 v1</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
+    
+    <category term="图论" scheme="https://zouxingyuks.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>microsoft store打开缓慢解决方法</title>
+    <link href="https://zouxingyuks.github.io/5e40ac1a.html"/>
+    <id>https://zouxingyuks.github.io/5e40ac1a.html</id>
+    <published>2022-06-26T04:15:45.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文转载自：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/469585538&quot;&gt;Windows 应用商店(Microsoft store)打不开？100% 解决方法-兼容 Win10、Win11&lt;/a&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="转载" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows设置开机自启动</title>
+    <link href="https://zouxingyuks.github.io/2b66f3e.html"/>
+    <id>https://zouxingyuks.github.io/2b66f3e.html</id>
+    <published>2022-06-24T16:44:16.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文介绍了多种设置开机自启动的方法，同样适用于关闭开机自启动。下载了p2p下崽器的同学，一定要看本文！！！&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>GORM学习</title>
+    <link href="https://zouxingyuks.github.io/471c01d1.html"/>
+    <id>https://zouxingyuks.github.io/471c01d1.html</id>
+    <published>2022-06-24T15:17:57.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;GORM学习&lt;/h1&gt;
+&lt;h2 id=&quot;官方文档&quot;&gt;官方文档&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://gorm.io/zh_CN/docs/&quot;&gt;中文文档&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;依赖包&quot;&gt;依赖包&lt;/h2&gt;
+&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://zouxingyuks.github.io/categories/notes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Gin框架学习</title>
+    <link href="https://zouxingyuks.github.io/f7701653.html"/>
+    <id>https://zouxingyuks.github.io/f7701653.html</id>
+    <published>2022-06-24T13:53:17.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1本文档的部分方法并不全面，由于博主本身还在学习，因此学到新的方法后会进行补充，且部分使用方法相较于官方文档可能更优&lt;/p&gt;
+&lt;h2 id=&quot;官方文档-2&quot;&gt;官方文档&lt;/h2&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://zouxingyuks.github.io/categories/notes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>软件推荐-PixEz Flutter</title>
+    <link href="https://zouxingyuks.github.io/3ad00374.html"/>
+    <id>https://zouxingyuks.github.io/3ad00374.html</id>
+    <published>2022-06-23T16:41:35.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;软件推荐-PixEz Flutter&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/06/24/e39O5aGLvRifdwX.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>软件推荐-LANDrop</title>
+    <link href="https://zouxingyuks.github.io/22edf87.html"/>
+    <id>https://zouxingyuks.github.io/22edf87.html</id>
+    <published>2022-06-22T11:40:44.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;软件推荐-LANDrop&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/06/22/YpuTfadOJtQIAKj.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Go 开发环境配置</title>
+    <link href="https://zouxingyuks.github.io/96d6aa90.html"/>
+    <id>https://zouxingyuks.github.io/96d6aa90.html</id>
+    <published>2022-06-21T06:53:44.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;Go 开发环境搭建&lt;/h1&gt;
+&lt;h2 id=&quot;下载-3&quot;&gt;下载&lt;/h2&gt;
+&lt;p&gt;Go官网下载地址：&lt;a href=&quot;https://golang.org/dl/&quot;&gt;https://golang.org/dl/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Go官方镜像站（推荐）：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="笔记" scheme="https://zouxingyuks.github.io/categories/notes/"/>
+    
+    
+    <category term="Go" scheme="https://zouxingyuks.github.io/tags/Go/"/>
+    
+    <category term="环境配置" scheme="https://zouxingyuks.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Biorhythms题解</title>
+    <link href="https://zouxingyuks.github.io/1ebe21c1.html"/>
+    <id>https://zouxingyuks.github.io/1ebe21c1.html</id>
+    <published>2022-06-20T12:17:54.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;分析&quot;&gt;分析&lt;/h2&gt;
+&lt;p&gt;纯粹的板子题，知识点在这：&lt;a href=&quot;https://anubis.cafe/2cf738e6.html&quot;&gt;中国剩余定理&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;注意点&quot;&gt;注意点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;是第一个比 d</summary>
+        
+      
+    
+    
+    
+    <category term="题解" scheme="https://zouxingyuks.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>中国剩余定理</title>
+    <link href="https://zouxingyuks.github.io/2cf738e6.html"/>
+    <id>https://zouxingyuks.github.io/2cf738e6.html</id>
+    <published>2022-06-19T17:30:56.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;乘法逆元&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;知识浅析&quot;&gt;知识浅析&lt;/h2&gt;
+&lt;p&gt;**问题：**计算一个整数</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="数论" scheme="https://zouxingyuks.github.io/tags/number-theory/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA中文乱码</title>
+    <link href="https://zouxingyuks.github.io/48ee18f2.html"/>
+    <id>https://zouxingyuks.github.io/48ee18f2.html</id>
+    <published>2022-06-19T10:23:34.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;原因多种多样，请逐一尝试&lt;/p&gt;
+&lt;h2 id=&quot;1-JDK版本问题&quot;&gt;1.JDK版本问题&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;JDK18&lt;/strong&gt; 现在中文支持仍存在问题，切换为 &lt;strong&gt;JDK17&lt;/strong&gt; 即可&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="JetBrains" scheme="https://zouxingyuks.github.io/tags/JetBrains/"/>
+    
+    <category term="IDEA" scheme="https://zouxingyuks.github.io/tags/IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客功能添加及优化</title>
+    <link href="https://zouxingyuks.github.io/47ff9fc9.html"/>
+    <id>https://zouxingyuks.github.io/47ff9fc9.html</id>
+    <published>2022-06-19T06:04:33.000Z</published>
+    <updated>2022-06-28T10:52:32.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-配置音乐播放器&quot;&gt;1.配置音乐播放器&lt;/h3&gt;
+&lt;p&gt;要支持音乐播放，在&lt;strong&gt;主题&lt;/strong&gt;的 &lt;code&gt;_config.yml&lt;/code&gt; 配置文件中激活 music 配置即可：&lt;/p&gt;
+&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="博客" scheme="https://zouxingyuks.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件推荐-Qdown</title>
+    <link href="https://zouxingyuks.github.io/96fea2ff.html"/>
+    <id>https://zouxingyuks.github.io/96fea2ff.html</id>
+    <published>2022-06-18T14:09:32.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/06/18/2QnhO36oTDicGpl.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
+    
+    
+    <category term="软件推荐" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>百度网盘加速下载</title>
+    <link href="https://zouxingyuks.github.io/4ddc57c3.html"/>
+    <id>https://zouxingyuks.github.io/4ddc57c3.html</id>
+    <published>2022-06-18T13:38:18.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文持续更新，只为大家能更好使用百度网盘&lt;/p&gt;
+&lt;h2 id=&quot;1-AntDownload&quot;&gt;1.&lt;a href=&quot;https://anubis.cafe/ced57b9f.html&quot;&gt;AntDownload&lt;/a&gt;&lt;/h2&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="百度网盘" scheme="https://zouxingyuks.github.io/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>磁盘打不开提示格式化故障</title>
+    <link href="https://zouxingyuks.github.io/ff89d496.html"/>
+    <id>https://zouxingyuks.github.io/ff89d496.html</id>
+    <published>2022-06-18T13:11:19.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;现象&quot;&gt;现象&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.diskgenius.cn/exp/img/external-hdd-prompt-format.png&quot; alt=&quot;打不开提示格式化&quot;&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="Windows" scheme="https://zouxingyuks.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>硬盘安全弹出</title>
+    <link href="https://zouxingyuks.github.io/365ba366.html"/>
+    <id>https://zouxingyuks.github.io/365ba366.html</id>
+    <published>2022-06-18T12:42:17.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;下面列举了多种方法，建议按顺序尝试&lt;/p&gt;
+&lt;h2 id=&quot;1-Windows-自带安全弹出&quot;&gt;1. Windows 自带安全弹出&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/06/18/pkVLv6qMY9NhnFZ.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="Windows" scheme="https://zouxingyuks.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RSSHub使用经验</title>
+    <link href="https://zouxingyuks.github.io/e5fd8278.html"/>
+    <id>https://zouxingyuks.github.io/e5fd8278.html</id>
+    <published>2022-06-17T17:14:28.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;RSSHub&quot;&gt;RSSHub&lt;/h2&gt;
+&lt;h3 id=&quot;简介&quot;&gt;简介&lt;/h3&gt;
+&lt;p&gt;你可以用它来给各种社交媒体、新媒体、论坛、博客、直播、大学通知、科学期刊等等奇奇怪怪的页面&lt;strong&gt;生成订阅源&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;18年，DIYgod</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="RSS" scheme="https://zouxingyuks.github.io/tags/RSS/"/>
+    
+    <category term="RSSHub" scheme="https://zouxingyuks.github.io/tags/RSSHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux换源</title>
+    <link href="https://zouxingyuks.github.io/18f26aa6.html"/>
+    <id>https://zouxingyuks.github.io/18f26aa6.html</id>
+    <published>2022-06-17T07:40:29.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Ubuntu&quot;&gt;Ubuntu&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;对系统给的镜像源进行备份，以防出问题&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="Ubuntu" scheme="https://zouxingyuks.github.io/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UbuntuKylin教程</title>
+    <link href="https://zouxingyuks.github.io/856b8df8.html"/>
+    <id>https://zouxingyuks.github.io/856b8df8.html</id>
+    <published>2022-06-17T06:15:42.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;下载-4&quot;&gt;下载&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;官网：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="Linux" scheme="https://zouxingyuks.github.io/tags/Linux/"/>
+    
+    <category term="Ubuntu" scheme="https://zouxingyuks.github.io/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用教程-VMware</title>
+    <link href="https://zouxingyuks.github.io/5b0d2e62.html"/>
+    <id>https://zouxingyuks.github.io/5b0d2e62.html</id>
+    <published>2022-06-17T05:53:57.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;虚拟机-VMware&quot;&gt;虚拟机 VMware&lt;/h2&gt;
+&lt;h3 id=&quot;下载&quot;&gt;&lt;strong&gt;下载&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;官网下载地址：&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
+    
+    
+    <category term="使用教程" scheme="https://zouxingyuks.github.io/tags/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小说推荐</title>
+    <link href="https://zouxingyuks.github.io/5a181024.html"/>
+    <id>https://zouxingyuks.github.io/5a181024.html</id>
+    <published>2022-06-15T06:40:09.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;无限流&quot;&gt;无限流&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;轮回乐园&lt;/li&gt;
+&lt;li&gt;无限神座&lt;/li&gt;
+&lt;li&gt;征战乐园&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://zouxingyuks.github.io/categories/tittle-tattle/"/>
+    
+    
+    <category term="小说" scheme="https://zouxingyuks.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件推荐-B23Downloader</title>
+    <link href="https://zouxingyuks.github.io/ad9e1a96.html"/>
+    <id>https://zouxingyuks.github.io/ad9e1a96.html</id>
+    <published>2022-06-14T16:04:50.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;B23Downloader&quot;&gt;B23Downloader&lt;/h2&gt;
+&lt;h3 id=&quot;功能介绍-2&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;B23Downloader&lt;/strong&gt; 是专门为&lt;strong&gt;下载 B</summary>
+        
+      
+    
+    
+    
+    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
+    
+    
+    <category term="bilibili" scheme="https://zouxingyuks.github.io/tags/bilibili/"/>
+    
+    <category term="软件推荐" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件推荐-Listary Pro</title>
+    <link href="https://zouxingyuks.github.io/dccb6f1b.html"/>
+    <id>https://zouxingyuks.github.io/dccb6f1b.html</id>
+    <published>2022-06-14T12:00:24.000Z</published>
+    <updated>2022-06-28T16:37:32.903Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;功能介绍-5&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;改善了&lt;code&gt;Windows&lt;/code&gt;低效的文件搜索&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
+    
+    
+    <category term="软件推荐" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件推荐-AntDownload</title>
+    <link href="https://zouxingyuks.github.io/ced57b9f.html"/>
+    <id>https://zouxingyuks.github.io/ced57b9f.html</id>
+    <published>2022-06-14T11:00:24.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;软件推荐-AntDownload&lt;/h1&gt;
+&lt;h2 id=&quot;AntDownload&quot;&gt;AntDownload&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/06/14/bSEfJ8zpAaRqMVi.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
+    
+    
+    <category term="软件推荐" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="百度网盘" scheme="https://zouxingyuks.github.io/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>导弹拦截</title>
+    <link href="https://zouxingyuks.github.io/1fa451f3.html"/>
+    <id>https://zouxingyuks.github.io/1fa451f3.html</id>
+    <published>2022-06-13T13:21:35.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目链接-2&quot;&gt;题目链接&lt;/h2&gt;
+&lt;h3 id=&quot;P1020-NOIP1999-普及组-导弹拦截&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1020&quot;&gt;P1020 [NOIP1999 普及组]</summary>
+        
+      
+    
+    
+    
+    <category term="题解" scheme="https://zouxingyuks.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="动态规划" scheme="https://zouxingyuks.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    
+    <category term="最长不上升子序列" scheme="https://zouxingyuks.github.io/tags/%E6%9C%80%E9%95%BF%E4%B8%8D%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>乘法逆元</title>
+    <link href="https://zouxingyuks.github.io/bfaab9bd.html"/>
+    <id>https://zouxingyuks.github.io/bfaab9bd.html</id>
+    <published>2022-06-13T12:30:06.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;定义&quot;&gt;定义&lt;/h3&gt;
+&lt;p&gt;当 ax ≡ 1( mod p)， x 即为 a 在mod p 意义下的逆元。&lt;br&gt;
+逆元的数学符号是 inv ，a 在mod p 意义下的逆元记作 inv(a,p)。&lt;/p&gt;
+&lt;h3 id=&quot;证明&quot;&gt;证明&lt;/h3&gt;
+&lt;h4</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
+    
+    <category term="数论" scheme="https://zouxingyuks.github.io/tags/number-theory/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分数取模</title>
+    <link href="https://zouxingyuks.github.io/49708d8.html"/>
+    <id>https://zouxingyuks.github.io/49708d8.html</id>
+    <published>2022-06-13T12:27:14.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;乘法逆元-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;原理-6&quot;&gt;原理&lt;/h2&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
+    
+    <category term="数论" scheme="https://zouxingyuks.github.io/tags/number-theory/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows系统关闭自动更新</title>
+    <link href="https://zouxingyuks.github.io/bfeed181.html"/>
+    <id>https://zouxingyuks.github.io/bfeed181.html</id>
+    <published>2022-06-12T08:40:32.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Win-10&quot;&gt;Win 10&lt;/h2&gt;
+&lt;h3 id=&quot;方法一：禁止Update服务&quot;&gt;方法一：禁止Update服务&lt;/h3&gt;
+&lt;p&gt;​	按下&lt;code&gt;Win+R&lt;/code&gt;组合键打开运行，输入&lt;code&gt;services.msc&lt;/code&gt;启动</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="Windows" scheme="https://zouxingyuks.github.io/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JetBrains使用经验</title>
+    <link href="https://zouxingyuks.github.io/e326191b.html"/>
+    <id>https://zouxingyuks.github.io/e326191b.html</id>
+    <published>2022-06-12T08:30:43.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;启动出现Caused-by-java-net-BindException-Address-already-in-use-bind导致无法启动&quot;&gt;启动出现&lt;code&gt;Caused by: java.net.BindException:</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="JetBrains" scheme="https://zouxingyuks.github.io/tags/JetBrains/"/>
+    
+    <category term="软件" scheme="https://zouxingyuks.github.io/tags/software/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图床</title>
+    <link href="https://zouxingyuks.github.io/105e3a7d.html"/>
+    <id>https://zouxingyuks.github.io/105e3a7d.html</id>
+    <published>2022-06-09T06:00:28.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;一、什么是图床&lt;/h1&gt;
+&lt;p&gt;图床其实是互联网中存储图片的空间，作为一个人的云端图片链接&lt;/p&gt;
+&lt;h1&gt;二、为什么要图床&lt;/h1&gt;
+&lt;p&gt;​	大部分人写博客都用&lt;code&gt;markdown&lt;/code&gt;，而&lt;code&gt;markdown&lt;/code&gt;的图片是通过链接的方</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="博客" scheme="https://zouxingyuks.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内镜像加速</title>
+    <link href="https://zouxingyuks.github.io/f7670301.html"/>
+    <id>https://zouxingyuks.github.io/f7670301.html</id>
+    <published>2022-06-09T04:00:28.000Z</published>
+    <updated>2022-06-28T09:14:55.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;5&lt;/p&gt;
+&lt;h2 id=&quot;软件类&quot;&gt;软件类&lt;/h2&gt;
+&lt;h3 id=&quot;npm&quot;&gt;npm&lt;/h3&gt;
+&lt;h4 id=&quot;链接-7&quot;&gt;链接&lt;/h4&gt;
+&lt;h4 id=&quot;https-npmmirror-com&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
+    
+    
+    <category term="npm" scheme="https://zouxingyuks.github.io/tags/npm/"/>
+    
+    <category term="资源整合" scheme="https://zouxingyuks.github.io/tags/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/"/>
+    
+  </entry>
+  
+</feed>
