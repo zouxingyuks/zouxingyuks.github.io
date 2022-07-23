@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-22T12:31:12.654Z</updated>
+  <updated>2022-07-23T02:43:20.345Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zouxingyuks.github.io/b43957a0.html"/>
     <id>https://zouxingyuks.github.io/b43957a0.html</id>
     <published>2022-07-22T07:31:04.000Z</published>
-    <updated>2022-07-22T12:31:12.654Z</updated>
+    <updated>2022-07-23T02:43:20.345Z</updated>
     
     
       
@@ -30,12 +30,14 @@
         
     <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h2 id=&quot;原理-6&quot;&gt;原理&lt;/h2&gt;
-&lt;h2 id=&quot;代码实现-6&quot;&gt;代码实现&lt;/h2&gt;
+&lt;h2 id=&quot;代码实现-5&quot;&gt;代码实现&lt;/h2&gt;
 &lt;h2</summary>
         
       
     
     
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
     
   </entry>
@@ -45,7 +47,7 @@
     <link href="https://zouxingyuks.github.io/f60286b9.html"/>
     <id>https://zouxingyuks.github.io/f60286b9.html</id>
     <published>2022-07-22T06:52:33.000Z</published>
-    <updated>2022-07-23T02:24:00.198Z</updated>
+    <updated>2022-07-23T02:47:13.054Z</updated>
     
     
       
@@ -61,6 +63,8 @@
       
     
     
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
     
   </entry>
@@ -153,7 +157,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;题目链接-2&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;题目分析&quot;&gt;题目分析&lt;/h2&gt;
 &lt;p&gt;裸的&lt;a</summary>
         
@@ -201,7 +205,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;算法原理&quot;&gt;算法原理&lt;/h2&gt;
 &lt;p&gt;通过</summary>
@@ -227,7 +231,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&quot;Tarjan算法&quot;&gt;&lt;a</summary>
         
@@ -432,7 +436,7 @@
         
         
     <summary type="html">&lt;h1&gt;Go 开发环境搭建&lt;/h1&gt;
-&lt;h2 id=&quot;下载-4&quot;&gt;下载&lt;/h2&gt;
+&lt;h2 id=&quot;下载-3&quot;&gt;下载&lt;/h2&gt;
 &lt;p&gt;Go官网下载地址：&lt;a href=&quot;https://golang.org/dl/&quot;&gt;https://golang.org/dl/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Go官方镜像站（推荐）：&lt;a</summary>
         
@@ -488,10 +492,10 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;知识浅析&quot;&gt;知识浅析&lt;/h2&gt;
-&lt;p&gt;**问题：**计算一个整数</summary>
+&lt;p&gt;**问题：**计算一个整数 x</summary>
         
       
     
@@ -741,7 +745,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;下载-3&quot;&gt;下载&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;下载-4&quot;&gt;下载&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;官网：&lt;a</summary>
@@ -858,7 +862,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;功能介绍-5&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;功能介绍-4&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;改善了&lt;code&gt;Windows&lt;/code&gt;低效的文件搜索&lt;/p&gt;
 &lt;h2</summary>
         
@@ -914,7 +918,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;题目链接&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;题目链接-2&quot;&gt;题目链接&lt;/h2&gt;
 &lt;h3 id=&quot;P1020-NOIP1999-普及组-导弹拦截&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P1020&quot;&gt;P1020 [NOIP1999 普及组]</summary>
         
       
@@ -942,7 +946,7 @@
       
         
         
-    <summary type="html">&lt;h3 id=&quot;定义-2&quot;&gt;定义&lt;/h3&gt;
+    <summary type="html">&lt;h3 id=&quot;定义-4&quot;&gt;定义&lt;/h3&gt;
 &lt;p&gt;当 ax ≡ 1( mod p)， x 即为 a 在mod p 意义下的逆元。&lt;br&gt;
 逆元的数学符号是 inv ，a 在mod p 意义下的逆元记作 inv(a,p)。&lt;/p&gt;
 &lt;h3 id=&quot;证明&quot;&gt;证明&lt;/h3&gt;
