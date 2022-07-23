@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-23T03:00:48.310Z</updated>
+  <updated>2022-07-23T03:04:01.081Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zouxingyuks.github.io/7143db0c.html"/>
     <id>https://zouxingyuks.github.io/7143db0c.html</id>
     <published>2022-07-23T02:41:47.000Z</published>
-    <updated>2022-07-23T03:00:48.310Z</updated>
+    <updated>2022-07-23T03:04:01.081Z</updated>
     
     
       
@@ -35,6 +35,8 @@
       
     
     
+    
+    <category term="题解" scheme="https://zouxingyuks.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
   </entry>
@@ -53,7 +55,7 @@
         
     <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h2 id=&quot;原理-6&quot;&gt;原理&lt;/h2&gt;
-&lt;h2 id=&quot;代码实现-6&quot;&gt;代码实现&lt;/h2&gt;
+&lt;h2 id=&quot;代码实现-7&quot;&gt;代码实现&lt;/h2&gt;
 &lt;h2</summary>
         
       
@@ -70,7 +72,7 @@
     <link href="https://zouxingyuks.github.io/f60286b9.html"/>
     <id>https://zouxingyuks.github.io/f60286b9.html</id>
     <published>2022-07-22T06:52:33.000Z</published>
-    <updated>2022-07-23T02:47:13.054Z</updated>
+    <updated>2022-07-23T03:10:57.196Z</updated>
     
     
       
@@ -89,6 +91,8 @@
     
     <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
+    
+    <category term="数论" scheme="https://zouxingyuks.github.io/tags/number-theory/"/>
     
   </entry>
   
@@ -254,7 +258,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&quot;Tarjan算法&quot;&gt;&lt;a</summary>
         
@@ -357,7 +361,7 @@
         
         
     <summary type="html">&lt;h1&gt;GORM学习&lt;/h1&gt;
-&lt;h2 id=&quot;官方文档&quot;&gt;官方文档&lt;/h2&gt;
+&lt;h2 id=&quot;官方文档-2&quot;&gt;官方文档&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://gorm.io/zh_CN/docs/&quot;&gt;中文文档&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;依赖包&quot;&gt;依赖包&lt;/h2&gt;
 &lt;pre</summary>
@@ -384,7 +388,7 @@
         
         
     <summary type="html">&lt;p&gt;1本文档的部分方法并不全面，由于博主本身还在学习，因此学到新的方法后会进行补充，且部分使用方法相较于官方文档可能更优&lt;/p&gt;
-&lt;h2 id=&quot;官方文档-2&quot;&gt;官方文档&lt;/h2&gt;
+&lt;h2 id=&quot;官方文档&quot;&gt;官方文档&lt;/h2&gt;
 &lt;p&gt;&lt;a</summary>
         
       
@@ -515,7 +519,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;知识浅析&quot;&gt;知识浅析&lt;/h2&gt;
 &lt;p&gt;**问题：**计算一个整数</summary>
@@ -739,7 +743,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Ubuntu-4&quot;&gt;Ubuntu&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;Ubuntu&quot;&gt;Ubuntu&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;对系统给的镜像源进行备份，以防出问题&lt;/p&gt;
@@ -885,7 +889,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;功能介绍-6&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;功能介绍-4&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;改善了&lt;code&gt;Windows&lt;/code&gt;低效的文件搜索&lt;/p&gt;
 &lt;h2</summary>
         
@@ -962,14 +966,14 @@
     <link href="https://zouxingyuks.github.io/bfaab9bd.html"/>
     <id>https://zouxingyuks.github.io/bfaab9bd.html</id>
     <published>2022-06-13T12:30:06.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
+    <updated>2022-07-23T05:57:58.159Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h3 id=&quot;定义-4&quot;&gt;定义&lt;/h3&gt;
+    <summary type="html">&lt;h3 id=&quot;定义-2&quot;&gt;定义&lt;/h3&gt;
 &lt;p&gt;当 ax ≡ 1( mod p)， x 即为 a 在mod p 意义下的逆元。&lt;br&gt;
 逆元的数学符号是 inv ，a 在mod p 意义下的逆元记作 inv(a,p)。&lt;/p&gt;
 &lt;h3 id=&quot;证明&quot;&gt;证明&lt;/h3&gt;
@@ -991,7 +995,7 @@
     <link href="https://zouxingyuks.github.io/49708d8.html"/>
     <id>https://zouxingyuks.github.io/49708d8.html</id>
     <published>2022-06-13T12:27:14.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
+    <updated>2022-07-23T05:59:39.324Z</updated>
     
     
       
