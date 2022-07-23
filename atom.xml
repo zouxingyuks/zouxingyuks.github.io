@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-23T02:43:20.345Z</updated>
+  <updated>2022-07-23T03:00:48.310Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>P2158 [SDOI2008] 仪仗队</title>
+    <link href="https://zouxingyuks.github.io/7143db0c.html"/>
+    <id>https://zouxingyuks.github.io/7143db0c.html</id>
+    <published>2022-07-23T02:41:47.000Z</published>
+    <updated>2022-07-23T03:00:48.310Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置知识&quot;&gt;前置知识&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://anubis.cafe/f60286b9.html&quot;&gt;欧拉定理&lt;/a&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>欧拉定理</title>
@@ -28,9 +51,9 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h2 id=&quot;原理-6&quot;&gt;原理&lt;/h2&gt;
-&lt;h2 id=&quot;代码实现-5&quot;&gt;代码实现&lt;/h2&gt;
+&lt;h2 id=&quot;代码实现-6&quot;&gt;代码实现&lt;/h2&gt;
 &lt;h2</summary>
         
       
@@ -492,10 +515,10 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;知识浅析&quot;&gt;知识浅析&lt;/h2&gt;
-&lt;p&gt;**问题：**计算一个整数 x</summary>
+&lt;p&gt;**问题：**计算一个整数</summary>
         
       
     
@@ -716,7 +739,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Ubuntu&quot;&gt;Ubuntu&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;Ubuntu-4&quot;&gt;Ubuntu&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;对系统给的镜像源进行备份，以防出问题&lt;/p&gt;
@@ -862,7 +885,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;功能介绍-4&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;功能介绍-6&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;改善了&lt;code&gt;Windows&lt;/code&gt;低效的文件搜索&lt;/p&gt;
 &lt;h2</summary>
         
@@ -975,7 +998,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;原理-5&quot;&gt;原理&lt;/h2&gt;
 &lt;h3</summary>
@@ -1071,37 +1094,6 @@
     
     
     <category term="博客" scheme="https://zouxingyuks.github.io/tags/blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>国内镜像加速</title>
-    <link href="https://zouxingyuks.github.io/f7670301.html"/>
-    <id>https://zouxingyuks.github.io/f7670301.html</id>
-    <published>2022-06-09T04:00:28.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;5&lt;/p&gt;
-&lt;h2 id=&quot;软件类&quot;&gt;软件类&lt;/h2&gt;
-&lt;h3 id=&quot;npm&quot;&gt;npm&lt;/h3&gt;
-&lt;h4 id=&quot;链接&quot;&gt;链接&lt;/h4&gt;
-&lt;h4 id=&quot;https-npmmirror-com&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
-    
-    
-    <category term="npm" scheme="https://zouxingyuks.github.io/tags/npm/"/>
-    
-    <category term="资源整合" scheme="https://zouxingyuks.github.io/tags/%E8%B5%84%E6%BA%90%E6%95%B4%E5%90%88/"/>
     
   </entry>
   
