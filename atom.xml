@@ -48,7 +48,7 @@ bool</summary>
     <link href="https://zouxingyuks.github.io/ece2ea76.html"/>
     <id>https://zouxingyuks.github.io/ece2ea76.html</id>
     <published>2022-07-23T03:10:31.000Z</published>
-    <updated>2022-07-24T05:52:55.936Z</updated>
+    <updated>2022-07-24T09:12:50.805Z</updated>
     
     
       
@@ -290,9 +290,10 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
-&lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
-&lt;h2</summary>
+    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;算法原理&quot;&gt;算法原理&lt;/h2&gt;
+&lt;p&gt;通过</summary>
         
       
     
@@ -315,8 +316,8 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
-&lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&quot;Tarjan算法&quot;&gt;&lt;a</summary>
         
       
@@ -418,7 +419,7 @@ bool</summary>
         
         
     <summary type="html">&lt;h1&gt;GORM学习&lt;/h1&gt;
-&lt;h2 id=&quot;官方文档-2&quot;&gt;官方文档&lt;/h2&gt;
+&lt;h2 id=&quot;官方文档&quot;&gt;官方文档&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://gorm.io/zh_CN/docs/&quot;&gt;中文文档&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;依赖包&quot;&gt;依赖包&lt;/h2&gt;
 &lt;pre</summary>
@@ -445,7 +446,7 @@ bool</summary>
         
         
     <summary type="html">&lt;p&gt;1本文档的部分方法并不全面，由于博主本身还在学习，因此学到新的方法后会进行补充，且部分使用方法相较于官方文档可能更优&lt;/p&gt;
-&lt;h2 id=&quot;官方文档&quot;&gt;官方文档&lt;/h2&gt;
+&lt;h2 id=&quot;官方文档-2&quot;&gt;官方文档&lt;/h2&gt;
 &lt;p&gt;&lt;a</summary>
         
       
@@ -576,7 +577,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;知识浅析&quot;&gt;知识浅析&lt;/h2&gt;
 &lt;p&gt;**问题：**计算一个整数</summary>
@@ -800,7 +801,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Ubuntu&quot;&gt;Ubuntu&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;Ubuntu-4&quot;&gt;Ubuntu&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;对系统给的镜像源进行备份，以防出问题&lt;/p&gt;
@@ -918,7 +919,7 @@ bool</summary>
         
         
     <summary type="html">&lt;h2 id=&quot;B23Downloader&quot;&gt;B23Downloader&lt;/h2&gt;
-&lt;h3 id=&quot;功能介绍-2&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;功能介绍&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;B23Downloader&lt;/strong&gt; 是专门为&lt;strong&gt;下载 B</summary>
         
       
@@ -928,9 +929,9 @@ bool</summary>
     <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
     
     
-    <category term="软件推荐" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
-    
     <category term="bilibili" scheme="https://zouxingyuks.github.io/tags/bilibili/"/>
+    
+    <category term="软件推荐" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -1030,7 +1031,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h3 id=&quot;定义-3&quot;&gt;定义&lt;/h3&gt;
+    <summary type="html">&lt;h3 id=&quot;定义&quot;&gt;定义&lt;/h3&gt;
 &lt;p&gt;当 ax ≡ 1( mod p)， x 即为 a 在mod p 意义下的逆元。&lt;br&gt;
 逆元的数学符号是 inv ，a 在mod p 意义下的逆元记作 inv(a,p)。&lt;/p&gt;
 &lt;h3 id=&quot;证明&quot;&gt;证明&lt;/h3&gt;
