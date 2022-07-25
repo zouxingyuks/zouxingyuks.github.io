@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-24T05:52:55.706Z</updated>
+  <updated>2022-07-24T16:23:47.734Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>快速乘</title>
+    <link href="https://zouxingyuks.github.io/dc64ee44.html"/>
+    <id>https://zouxingyuks.github.io/dc64ee44.html</id>
+    <published>2022-07-24T13:06:45.000Z</published>
+    <updated>2022-07-24T16:23:47.734Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;非常优秀的O（1）快速乘&quot;&gt;非常优秀的O（1）快速乘&lt;/h2&gt;
+&lt;p&gt;考虑到计算 &lt;code&gt;a*b/mod &lt;/code&gt;使用了浮点数计算，&lt;strong&gt;误差是不可避免的&lt;/strong&gt;，故建议不要用太大的 &lt;strong&gt;mod&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>素数筛法</title>
@@ -58,7 +80,7 @@ bool</summary>
     <summary type="html">&lt;p&gt;1&lt;/p&gt;
 &lt;h2 id=&quot;原理部分&quot;&gt;原理部分&lt;/h2&gt;
 &lt;p&gt;由于时间限制，后续会补充学习&lt;/p&gt;
-&lt;h2 id=&quot;代码实现-4&quot;&gt;代码实现&lt;/h2&gt;
+&lt;h2 id=&quot;代码实现-5&quot;&gt;代码实现&lt;/h2&gt;
 &lt;h3 id=&quot;PollardRho（-时间复杂度O-n1-4-）&quot;&gt;PollardRho（</summary>
         
       
@@ -109,7 +131,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;欧拉函数&quot;&gt;&lt;a href=&quot;https://anubis.cafe/f60286b9.html&quot;&gt;欧拉函数&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;原理-5&quot;&gt;原理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
@@ -290,10 +312,9 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
-&lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
-&lt;h2 id=&quot;算法原理&quot;&gt;算法原理&lt;/h2&gt;
-&lt;p&gt;通过</summary>
+    <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
+&lt;h2</summary>
         
       
     
@@ -316,8 +337,8 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
-&lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&quot;Tarjan算法&quot;&gt;&lt;a</summary>
         
       
@@ -387,7 +408,7 @@ bool</summary>
     <link href="https://zouxingyuks.github.io/2b66f3e.html"/>
     <id>https://zouxingyuks.github.io/2b66f3e.html</id>
     <published>2022-06-24T16:44:16.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
+    <updated>2022-07-25T15:53:50.214Z</updated>
     
     
       
@@ -577,7 +598,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;知识浅析&quot;&gt;知识浅析&lt;/h2&gt;
 &lt;p&gt;**问题：**计算一个整数</summary>
@@ -801,7 +822,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Ubuntu-4&quot;&gt;Ubuntu&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;Ubuntu&quot;&gt;Ubuntu&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;对系统给的镜像源进行备份，以防出问题&lt;/p&gt;
@@ -919,7 +940,7 @@ bool</summary>
         
         
     <summary type="html">&lt;h2 id=&quot;B23Downloader&quot;&gt;B23Downloader&lt;/h2&gt;
-&lt;h3 id=&quot;功能介绍&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;功能介绍-3&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;B23Downloader&lt;/strong&gt; 是专门为&lt;strong&gt;下载 B</summary>
         
       
@@ -929,9 +950,9 @@ bool</summary>
     <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
     
     
-    <category term="bilibili" scheme="https://zouxingyuks.github.io/tags/bilibili/"/>
-    
     <category term="软件推荐" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+    <category term="bilibili" scheme="https://zouxingyuks.github.io/tags/bilibili/"/>
     
   </entry>
   
@@ -947,7 +968,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;功能介绍-3&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;功能介绍-4&quot;&gt;&lt;strong&gt;功能介绍&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;改善了&lt;code&gt;Windows&lt;/code&gt;低效的文件搜索&lt;/p&gt;
 &lt;h2</summary>
         
@@ -1031,7 +1052,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h3 id=&quot;定义&quot;&gt;定义&lt;/h3&gt;
+    <summary type="html">&lt;h3 id=&quot;定义-2&quot;&gt;定义&lt;/h3&gt;
 &lt;p&gt;当 ax ≡ 1( mod p)， x 即为 a 在mod p 意义下的逆元。&lt;br&gt;
 逆元的数学符号是 inv ，a 在mod p 意义下的逆元记作 inv(a,p)。&lt;/p&gt;
 &lt;h3 id=&quot;证明&quot;&gt;证明&lt;/h3&gt;
@@ -1060,7 +1081,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;原理-4&quot;&gt;原理&lt;/h2&gt;
 &lt;h3</summary>
@@ -1073,33 +1094,6 @@ bool</summary>
     
     
     <category term="数论" scheme="https://zouxingyuks.github.io/tags/number-theory/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows系统关闭自动更新</title>
-    <link href="https://zouxingyuks.github.io/bfeed181.html"/>
-    <id>https://zouxingyuks.github.io/bfeed181.html</id>
-    <published>2022-06-12T08:40:32.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Win-10&quot;&gt;Win 10&lt;/h2&gt;
-&lt;h3 id=&quot;方法一：禁止Update服务&quot;&gt;方法一：禁止Update服务&lt;/h3&gt;
-&lt;p&gt;​	按下&lt;code&gt;Win+R&lt;/code&gt;组合键打开运行，输入&lt;code&gt;services.msc&lt;/code&gt;启动</summary>
-        
-      
-    
-    
-    
-    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
-    
-    
-    <category term="Windows" scheme="https://zouxingyuks.github.io/tags/Windows/"/>
     
   </entry>
   
