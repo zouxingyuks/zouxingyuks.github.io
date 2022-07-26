@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-26T12:17:31.056Z</updated>
+  <updated>2022-07-26T12:18:25.260Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zouxingyuks.github.io/3d7665f6.html"/>
     <id>https://zouxingyuks.github.io/3d7665f6.html</id>
     <published>2022-07-26T10:43:46.000Z</published>
-    <updated>2022-07-26T12:17:31.056Z</updated>
+    <updated>2022-07-26T12:18:25.260Z</updated>
     
     
       
@@ -36,6 +36,8 @@
     
     
     
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
     
   </entry>
   
@@ -44,7 +46,7 @@
     <link href="https://zouxingyuks.github.io/7ff86023.html"/>
     <id>https://zouxingyuks.github.io/7ff86023.html</id>
     <published>2022-07-26T02:13:10.000Z</published>
-    <updated>2022-07-26T12:15:04.639Z</updated>
+    <updated>2022-07-26T12:19:25.734Z</updated>
     
     
       
@@ -52,12 +54,14 @@
         
         
     <summary type="html">&lt;h2 id=&quot;排列组合基本知识&quot;&gt;排列组合基本知识&lt;/h2&gt;
-&lt;h2 id=&quot;卢卡斯-Lucas-定理&quot;&gt;卢卡斯(Lucas)定理&lt;/h2&gt;
+&lt;h2 id=&quot;卢卡斯-Lucas-定理&quot;&gt;&lt;a href=&quot;https://anubis.cafe/90d51adc.html&quot;&gt;卢卡斯(Lucas)定理&lt;/a&gt;&lt;/h2&gt;
 &lt;h2</summary>
         
       
     
     
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
     
   </entry>
@@ -515,7 +519,7 @@ bool</summary>
         
         
     <summary type="html">&lt;h1&gt;GORM学习&lt;/h1&gt;
-&lt;h2 id=&quot;官方文档-2&quot;&gt;官方文档&lt;/h2&gt;
+&lt;h2 id=&quot;官方文档&quot;&gt;官方文档&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://gorm.io/zh_CN/docs/&quot;&gt;中文文档&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;依赖包&quot;&gt;依赖包&lt;/h2&gt;
 &lt;pre</summary>
