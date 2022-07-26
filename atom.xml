@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-26T11:43:38.501Z</updated>
+  <updated>2022-07-26T12:17:31.056Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -17,11 +17,57 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>拓展卢卡斯定理</title>
+    <link href="https://zouxingyuks.github.io/3d7665f6.html"/>
+    <id>https://zouxingyuks.github.io/3d7665f6.html</id>
+    <published>2022-07-26T10:43:46.000Z</published>
+    <updated>2022-07-26T12:17:31.056Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://images-of-ansubis.oss-cn-hangzhou.aliyuncs.com/202207262011892.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>组合数学</title>
+    <link href="https://zouxingyuks.github.io/7ff86023.html"/>
+    <id>https://zouxingyuks.github.io/7ff86023.html</id>
+    <published>2022-07-26T02:13:10.000Z</published>
+    <updated>2022-07-26T12:15:04.639Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;排列组合基本知识&quot;&gt;排列组合基本知识&lt;/h2&gt;
+&lt;h2 id=&quot;卢卡斯-Lucas-定理&quot;&gt;卢卡斯(Lucas)定理&lt;/h2&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>卢卡斯(Lucas)定理</title>
     <link href="https://zouxingyuks.github.io/90d51adc.html"/>
     <id>https://zouxingyuks.github.io/90d51adc.html</id>
     <published>2022-07-26T02:10:00.000Z</published>
-    <updated>2022-07-26T11:43:38.501Z</updated>
+    <updated>2022-07-26T12:15:36.927Z</updated>
     
     
       
@@ -469,7 +515,7 @@ bool</summary>
         
         
     <summary type="html">&lt;h1&gt;GORM学习&lt;/h1&gt;
-&lt;h2 id=&quot;官方文档&quot;&gt;官方文档&lt;/h2&gt;
+&lt;h2 id=&quot;官方文档-2&quot;&gt;官方文档&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://gorm.io/zh_CN/docs/&quot;&gt;中文文档&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;依赖包&quot;&gt;依赖包&lt;/h2&gt;
 &lt;pre</summary>
@@ -479,56 +525,6 @@ bool</summary>
     
     
     <category term="笔记" scheme="https://zouxingyuks.github.io/categories/notes/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Gin框架学习</title>
-    <link href="https://zouxingyuks.github.io/f7701653.html"/>
-    <id>https://zouxingyuks.github.io/f7701653.html</id>
-    <published>2022-06-24T13:53:17.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;1本文档的部分方法并不全面，由于博主本身还在学习，因此学到新的方法后会进行补充，且部分使用方法相较于官方文档可能更优&lt;/p&gt;
-&lt;h2 id=&quot;官方文档-2&quot;&gt;官方文档&lt;/h2&gt;
-&lt;p&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="笔记" scheme="https://zouxingyuks.github.io/categories/notes/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>软件推荐-PixEz Flutter</title>
-    <link href="https://zouxingyuks.github.io/3ad00374.html"/>
-    <id>https://zouxingyuks.github.io/3ad00374.html</id>
-    <published>2022-06-23T16:41:35.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;软件推荐-PixEz Flutter&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/06/24/e39O5aGLvRifdwX.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
     
     
   </entry>
