@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-26T01:34:31.093Z</updated>
+  <updated>2022-07-26T10:45:04.666Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>卢卡斯(Lucas)定理</title>
+    <link href="https://zouxingyuks.github.io/90d51adc.html"/>
+    <id>https://zouxingyuks.github.io/90d51adc.html</id>
+    <published>2022-07-26T02:10:00.000Z</published>
+    <updated>2022-07-26T10:45:04.666Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置知识-7&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;乘法逆元-3&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>快速乘</title>
@@ -496,31 +520,6 @@ bool</summary>
         
     <summary type="html">&lt;h1&gt;软件推荐-PixEz Flutter&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/06/24/e39O5aGLvRifdwX.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="软件" scheme="https://zouxingyuks.github.io/categories/Software/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>软件推荐-LANDrop</title>
-    <link href="https://zouxingyuks.github.io/22edf87.html"/>
-    <id>https://zouxingyuks.github.io/22edf87.html</id>
-    <published>2022-06-22T11:40:44.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;软件推荐-LANDrop&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2022/06/22/YpuTfadOJtQIAKj.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h2</summary>
         
       
