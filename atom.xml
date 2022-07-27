@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-26T12:18:25.260Z</updated>
+  <updated>2022-07-27T16:19:52.576Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -17,11 +17,75 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>快速傅里叶变换（FFT）</title>
+    <link href="https://zouxingyuks.github.io/3cfac65d.html"/>
+    <id>https://zouxingyuks.github.io/3cfac65d.html</id>
+    <published>2022-07-27T14:04:21.000Z</published>
+    <updated>2022-07-27T16:19:52.576Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;原理部分-2&quot;&gt;原理部分&lt;/h2&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=203048598&amp;bvid=BV1za411F76U&amp;cid=262835785&amp;page=1&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>声明</title>
+    <link href="https://zouxingyuks.github.io/c3498269.html"/>
+    <id>https://zouxingyuks.github.io/c3498269.html</id>
+    <published>2022-07-27T13:53:07.000Z</published>
+    <updated>2022-07-27T13:56:54.795Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>模拟退火</title>
+    <link href="https://zouxingyuks.github.io/2d616411.html"/>
+    <id>https://zouxingyuks.github.io/2d616411.html</id>
+    <published>2022-07-27T06:20:42.000Z</published>
+    <updated>2022-07-27T08:03:35.107Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;推荐观看：&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>拓展卢卡斯定理</title>
     <link href="https://zouxingyuks.github.io/3d7665f6.html"/>
     <id>https://zouxingyuks.github.io/3d7665f6.html</id>
     <published>2022-07-26T10:43:46.000Z</published>
-    <updated>2022-07-26T12:18:25.260Z</updated>
+    <updated>2022-07-26T12:19:52.879Z</updated>
     
     
       
@@ -46,7 +110,7 @@
     <link href="https://zouxingyuks.github.io/7ff86023.html"/>
     <id>https://zouxingyuks.github.io/7ff86023.html</id>
     <published>2022-07-26T02:13:10.000Z</published>
-    <updated>2022-07-26T12:19:25.734Z</updated>
+    <updated>2022-07-26T12:19:52.882Z</updated>
     
     
       
@@ -158,7 +222,7 @@ bool</summary>
     <summary type="html">&lt;p&gt;1&lt;/p&gt;
 &lt;h2 id=&quot;原理部分&quot;&gt;原理部分&lt;/h2&gt;
 &lt;p&gt;由于时间限制，后续会补充学习&lt;/p&gt;
-&lt;h2 id=&quot;代码实现-5&quot;&gt;代码实现&lt;/h2&gt;
+&lt;h2 id=&quot;代码实现-6&quot;&gt;代码实现&lt;/h2&gt;
 &lt;h3 id=&quot;PollardRho（-时间复杂度O-n1-4-）&quot;&gt;PollardRho（</summary>
         
       
@@ -342,7 +406,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;题目链接-2&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;题目分析&quot;&gt;题目分析&lt;/h2&gt;
 &lt;p&gt;裸的&lt;a</summary>
         
@@ -392,8 +456,7 @@ bool</summary>
         
     <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
-&lt;h2 id=&quot;算法原理&quot;&gt;算法原理&lt;/h2&gt;
-&lt;p&gt;通过</summary>
+&lt;h2</summary>
         
       
     
@@ -453,83 +516,6 @@ bool</summary>
     
     
     <category term="图论" scheme="https://zouxingyuks.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>microsoft store打开缓慢解决方法</title>
-    <link href="https://zouxingyuks.github.io/5e40ac1a.html"/>
-    <id>https://zouxingyuks.github.io/5e40ac1a.html</id>
-    <published>2022-06-26T04:15:45.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;本文转载自：&lt;a href=&quot;https://zhuanlan.zhihu.com/p/469585538&quot;&gt;Windows 应用商店(Microsoft store)打不开？100% 解决方法-兼容 Win10、Win11&lt;/a&gt;&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
-    
-    
-    <category term="转载" scheme="https://zouxingyuks.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows设置开机自启动</title>
-    <link href="https://zouxingyuks.github.io/2b66f3e.html"/>
-    <id>https://zouxingyuks.github.io/2b66f3e.html</id>
-    <published>2022-06-24T16:44:16.000Z</published>
-    <updated>2022-07-26T01:34:12.936Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;本文介绍了多种设置开机自启动的方法，同样适用于关闭开机自启动。下载了p2p下崽器的同学，一定要看本文！！！&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="经验" scheme="https://zouxingyuks.github.io/categories/experience/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>GORM学习</title>
-    <link href="https://zouxingyuks.github.io/471c01d1.html"/>
-    <id>https://zouxingyuks.github.io/471c01d1.html</id>
-    <published>2022-06-24T15:17:57.000Z</published>
-    <updated>2022-06-28T09:14:55.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1&gt;GORM学习&lt;/h1&gt;
-&lt;h2 id=&quot;官方文档&quot;&gt;官方文档&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://gorm.io/zh_CN/docs/&quot;&gt;中文文档&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;依赖包&quot;&gt;依赖包&lt;/h2&gt;
-&lt;pre</summary>
-        
-      
-    
-    
-    
-    <category term="笔记" scheme="https://zouxingyuks.github.io/categories/notes/"/>
-    
     
   </entry>
   
