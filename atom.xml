@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-27T16:19:52.576Z</updated>
+  <updated>2022-07-27T16:20:09.007Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zouxingyuks.github.io/3cfac65d.html"/>
     <id>https://zouxingyuks.github.io/3cfac65d.html</id>
     <published>2022-07-27T14:04:21.000Z</published>
-    <updated>2022-07-27T16:19:52.576Z</updated>
+    <updated>2022-07-27T16:20:09.007Z</updated>
     
     
       
@@ -35,6 +35,8 @@
     
     
     
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
     
   </entry>
   
@@ -43,7 +45,7 @@
     <link href="https://zouxingyuks.github.io/c3498269.html"/>
     <id>https://zouxingyuks.github.io/c3498269.html</id>
     <published>2022-07-27T13:53:07.000Z</published>
-    <updated>2022-07-27T13:56:54.795Z</updated>
+    <updated>2022-07-28T14:19:53.453Z</updated>
     
     
       
@@ -64,7 +66,7 @@
     <link href="https://zouxingyuks.github.io/2d616411.html"/>
     <id>https://zouxingyuks.github.io/2d616411.html</id>
     <published>2022-07-27T06:20:42.000Z</published>
-    <updated>2022-07-27T08:03:35.107Z</updated>
+    <updated>2022-07-27T16:20:09.007Z</updated>
     
     
       
@@ -76,6 +78,8 @@
       
     
     
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
     
   </entry>
@@ -406,7 +410,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;题目链接-2&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;题目分析&quot;&gt;题目分析&lt;/h2&gt;
 &lt;p&gt;裸的&lt;a</summary>
         
