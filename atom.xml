@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-29T14:52:00.802Z</updated>
+  <updated>2022-07-29T16:00:44.058Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -21,17 +21,17 @@
     <link href="https://zouxingyuks.github.io/75154c39.html"/>
     <id>https://zouxingyuks.github.io/75154c39.html</id>
     <published>2022-07-29T14:20:38.000Z</published>
-    <updated>2022-07-29T14:52:00.802Z</updated>
+    <updated>2022-07-29T16:00:44.058Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-7&quot;&gt;前置知识&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://anubis.cafe/b43957a0.html&quot;&gt;欧拉定理&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;原理知识&quot;&gt;原理知识&lt;/h2&gt;
-&lt;p&gt;设a，p是整数，a和p互素，那么：使 &lt;img</summary>
+&lt;p&gt;设a，p是整数，a和p互素，那么：使</summary>
         
       
     
@@ -54,9 +54,9 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;BSGS&quot;&gt;&lt;a href=&quot;https://anubis.cafe/513a91d3.html&quot;&gt;BSGS&lt;/a&gt;&lt;/h3&gt;
-&lt;h2 id=&quot;算法原理-3&quot;&gt;算法原理&lt;/h2&gt;
+&lt;h2 id=&quot;算法原理-4&quot;&gt;算法原理&lt;/h2&gt;
 &lt;img</summary>
         
       
@@ -73,15 +73,16 @@
     <link href="https://zouxingyuks.github.io/513a91d3.html"/>
     <id>https://zouxingyuks.github.io/513a91d3.html</id>
     <published>2022-07-29T07:46:48.000Z</published>
-    <updated>2022-07-29T09:57:12.390Z</updated>
+    <updated>2022-07-29T16:13:57.939Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;算法原理-2&quot;&gt;算法原理&lt;/h2&gt;
-&lt;p&gt;给出  a，b， p，求最小的非负整数 x，满足&lt;img src=&quot;https://images-of-ansubis.oss-cn-hangzhou.aliyuncs.com/202207291623632.png&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;算法原理-3&quot;&gt;算法原理&lt;/h2&gt;
+&lt;p&gt;给出  a，b， p，求最小的非负整数 x，满足，&lt;strong&gt;a&lt;sup&gt; x &lt;/sup&gt; ≡ b (mod p)&lt;/strong&gt;,其中 &lt;strong&gt;p 为质数&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe</summary>
         
       
     
@@ -174,9 +175,8 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://images-of-ansubis.oss-cn-hangzhou.aliyuncs.com/202207262011892.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h2</summary>
+    <summary type="html">&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;./images/loading.gif&quot;</summary>
         
       
     
@@ -226,7 +226,7 @@
         
     <summary type="html">&lt;h2 id=&quot;前置知识-9&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元-3&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
-&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
+&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
         
       
@@ -355,7 +355,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-8&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;欧拉函数&quot;&gt;&lt;a href=&quot;https://anubis.cafe/f60286b9.html&quot;&gt;欧拉函数&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;原理-5&quot;&gt;原理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
