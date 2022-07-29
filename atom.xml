@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-29T08:43:42.235Z</updated>
+  <updated>2022-07-29T10:00:07.541Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -17,28 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>BSGS（北上广深）</title>
-    <link href="https://zouxingyuks.github.io/513a91d3.html"/>
-    <id>https://zouxingyuks.github.io/513a91d3.html</id>
-    <published>2022-07-29T07:46:48.000Z</published>
-    <updated>2022-07-29T08:43:42.235Z</updated>
+    <title>n</title>
+    <link href="https://zouxingyuks.github.io/7808a3d2.html"/>
+    <id>https://zouxingyuks.github.io/7808a3d2.html</id>
+    <published>2022-07-29T09:51:04.000Z</published>
+    <updated>2022-07-29T10:00:07.541Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;算法原理-2&quot;&gt;算法原理&lt;/h2&gt;
-&lt;p&gt;给出  a，b， p，求最小的非负整数 x，满足&lt;img src=&quot;https://images-of-ansubis.oss-cn-hangzhou.aliyuncs.com/202207291623632.png&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
+&lt;h3 id=&quot;BSGS&quot;&gt;&lt;a href=&quot;https://anubis.cafe/513a91d3.html&quot;&gt;BSGS&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;算法原理-3&quot;&gt;算法原理&lt;/h2&gt;
+&lt;img</summary>
         
       
     
     
     
-    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
-    
-    
-    <category term="工具算法" scheme="https://zouxingyuks.github.io/tags/%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
@@ -122,7 +120,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;https://images-of-ansubis.oss-cn-hangzhou.aliyuncs.com/202207262011892.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h2</summary>
         
@@ -172,9 +170,9 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-7&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-8&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元-3&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
-&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
+&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
         
       
@@ -303,7 +301,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-7&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;欧拉函数&quot;&gt;&lt;a href=&quot;https://anubis.cafe/f60286b9.html&quot;&gt;欧拉函数&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;原理-5&quot;&gt;原理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
@@ -484,7 +482,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h2</summary>
         
@@ -509,7 +507,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&quot;Tarjan算法&quot;&gt;&lt;a</summary>
         
