@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-29T16:00:44.058Z</updated>
+  <updated>2022-07-29T16:44:34.594Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>markdown 公式应用</title>
+    <link href="https://zouxingyuks.github.io/adc9fe7e.html"/>
+    <id>https://zouxingyuks.github.io/adc9fe7e.html</id>
+    <published>2022-07-29T16:22:53.000Z</published>
+    <updated>2022-07-29T16:44:34.594Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;空格&quot;&gt;空格&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;公式&lt;/th&gt;
+&lt;th&gt;呈现效果&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;两个quad空格&lt;/td&gt;
+&lt;td&gt;a \qquad</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>原根与阶</title>
     <link href="https://zouxingyuks.github.io/75154c39.html"/>
     <id>https://zouxingyuks.github.io/75154c39.html</id>
     <published>2022-07-29T14:20:38.000Z</published>
-    <updated>2022-07-29T16:00:44.058Z</updated>
+    <updated>2022-07-29T16:33:47.533Z</updated>
     
     
       
@@ -31,7 +64,7 @@
     <summary type="html">&lt;h2 id=&quot;前置知识-7&quot;&gt;前置知识&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://anubis.cafe/b43957a0.html&quot;&gt;欧拉定理&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;原理知识&quot;&gt;原理知识&lt;/h2&gt;
-&lt;p&gt;设a，p是整数，a和p互素，那么：使</summary>
+&lt;p&gt;设a，p是整数，a 和 p 互素，那么：使</summary>
         
       
     
@@ -175,7 +208,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;./images/loading.gif&quot;</summary>
         
       
@@ -226,7 +259,7 @@
         
     <summary type="html">&lt;h2 id=&quot;前置知识-9&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元-3&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
-&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
+&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
         
       
@@ -506,21 +539,6 @@ bool</summary>
     <category term="图论" scheme="https://zouxingyuks.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
     
     <category term="缩点" scheme="https://zouxingyuks.github.io/tags/%E7%BC%A9%E7%82%B9/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DAG</title>
-    <link href="https://zouxingyuks.github.io/89085679.html"/>
-    <id>https://zouxingyuks.github.io/89085679.html</id>
-    <published>2022-06-28T11:28:18.000Z</published>
-    <updated>2022-06-28T16:20:12.536Z</updated>
-    
-    
-    
-    
-    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
-    
     
   </entry>
   
