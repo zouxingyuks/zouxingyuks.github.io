@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-29T10:00:07.541Z</updated>
+  <updated>2022-07-29T14:20:45.842Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -17,11 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>n</title>
-    <link href="https://zouxingyuks.github.io/7808a3d2.html"/>
-    <id>https://zouxingyuks.github.io/7808a3d2.html</id>
+    <title>原根</title>
+    <link href="https://zouxingyuks.github.io/ad6bcf40.html"/>
+    <id>https://zouxingyuks.github.io/ad6bcf40.html</id>
+    <published>2022-07-29T14:20:38.000Z</published>
+    <updated>2022-07-29T14:20:45.842Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ExBSGS</title>
+    <link href="https://zouxingyuks.github.io/354848a1.html"/>
+    <id>https://zouxingyuks.github.io/354848a1.html</id>
     <published>2022-07-29T09:51:04.000Z</published>
-    <updated>2022-07-29T10:00:07.541Z</updated>
+    <updated>2022-07-29T14:20:14.038Z</updated>
     
     
       
@@ -36,6 +49,8 @@
       
     
     
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
     
   </entry>
@@ -434,7 +449,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;题目链接-2&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;题目分析&quot;&gt;题目分析&lt;/h2&gt;
 &lt;p&gt;裸的&lt;a</summary>
         
@@ -485,31 +500,6 @@ bool</summary>
     <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>缩点</title>
-    <link href="https://zouxingyuks.github.io/48720ec7.html"/>
-    <id>https://zouxingyuks.github.io/48720ec7.html</id>
-    <published>2022-06-28T11:11:59.000Z</published>
-    <updated>2022-06-28T15:16:03.293Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
-&lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
-&lt;h3 id=&quot;Tarjan算法&quot;&gt;&lt;a</summary>
         
       
     
