@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-28T14:20:09.963Z</updated>
+  <updated>2022-07-29T08:11:32.646Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BSGS（北上广深）</title>
+    <link href="https://zouxingyuks.github.io/513a91d3.html"/>
+    <id>https://zouxingyuks.github.io/513a91d3.html</id>
+    <published>2022-07-29T07:46:48.000Z</published>
+    <updated>2022-07-29T08:11:32.646Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;算法原理-2&quot;&gt;算法原理&lt;/h2&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=287884055&amp;bvid=BV17f4y1v7D5&amp;cid=259174466&amp;page=1&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="工具算法" scheme="https://zouxingyuks.github.io/tags/%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>快速傅里叶变换（FFT）</title>
@@ -277,7 +301,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;欧拉函数&quot;&gt;&lt;a href=&quot;https://anubis.cafe/f60286b9.html&quot;&gt;欧拉函数&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;原理-5&quot;&gt;原理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
@@ -458,7 +482,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h2</summary>
         
@@ -483,7 +507,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-3&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;强连通分量（SCC）-2&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&quot;Tarjan算法&quot;&gt;&lt;a</summary>
         
@@ -493,33 +517,6 @@ bool</summary>
     
     <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>强连通分量（SCC）</title>
-    <link href="https://zouxingyuks.github.io/4b4a3d7.html"/>
-    <id>https://zouxingyuks.github.io/4b4a3d7.html</id>
-    <published>2022-06-28T08:25:37.000Z</published>
-    <updated>2022-06-28T11:23:22.796Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;强联通&quot;&gt;强联通&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;强连通（Strongly Connected）是指一个有向图（Directed Graph）中任意两点 v1、v2 间存在 v1 到 v2 的路径（path）及 v2 到 v1</summary>
-        
-      
-    
-    
-    
-    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
-    
-    
-    <category term="图论" scheme="https://zouxingyuks.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
     
   </entry>
   
