@@ -6,7 +6,7 @@
   <link href="https://zouxingyuks.github.io/atom.xml" rel="self"/>
   
   <link href="https://zouxingyuks.github.io/"/>
-  <updated>2022-07-29T14:20:45.842Z</updated>
+  <updated>2022-07-29T14:52:00.802Z</updated>
   <id>https://zouxingyuks.github.io/</id>
   
   <author>
@@ -17,14 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>原根</title>
-    <link href="https://zouxingyuks.github.io/ad6bcf40.html"/>
-    <id>https://zouxingyuks.github.io/ad6bcf40.html</id>
+    <title>原根与阶</title>
+    <link href="https://zouxingyuks.github.io/75154c39.html"/>
+    <id>https://zouxingyuks.github.io/75154c39.html</id>
     <published>2022-07-29T14:20:38.000Z</published>
-    <updated>2022-07-29T14:20:45.842Z</updated>
+    <updated>2022-07-29T14:52:00.802Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前置知识-5&quot;&gt;前置知识&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://anubis.cafe/b43957a0.html&quot;&gt;欧拉定理&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;原理知识&quot;&gt;原理知识&lt;/h2&gt;
+&lt;p&gt;设a，p是整数，a和p互素，那么：使 &lt;img</summary>
+        
+      
     
     
     
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
     
   </entry>
@@ -34,14 +47,14 @@
     <link href="https://zouxingyuks.github.io/354848a1.html"/>
     <id>https://zouxingyuks.github.io/354848a1.html</id>
     <published>2022-07-29T09:51:04.000Z</published>
-    <updated>2022-07-29T14:20:14.038Z</updated>
+    <updated>2022-07-29T14:21:27.602Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-4&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;BSGS&quot;&gt;&lt;a href=&quot;https://anubis.cafe/513a91d3.html&quot;&gt;BSGS&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;算法原理-3&quot;&gt;算法原理&lt;/h2&gt;
 &lt;img</summary>
@@ -52,6 +65,32 @@
     
     <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
     
+    
+  </entry>
+  
+  <entry>
+    <title>BSGS（北上广深）</title>
+    <link href="https://zouxingyuks.github.io/513a91d3.html"/>
+    <id>https://zouxingyuks.github.io/513a91d3.html</id>
+    <published>2022-07-29T07:46:48.000Z</published>
+    <updated>2022-07-29T09:57:12.390Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;算法原理-2&quot;&gt;算法原理&lt;/h2&gt;
+&lt;p&gt;给出  a，b， p，求最小的非负整数 x，满足&lt;img src=&quot;https://images-of-ansubis.oss-cn-hangzhou.aliyuncs.com/202207291623632.png&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
+    
+    
+    <category term="工具算法" scheme="https://zouxingyuks.github.io/tags/%E5%B7%A5%E5%85%B7%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
@@ -135,7 +174,7 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;https://images-of-ansubis.oss-cn-hangzhou.aliyuncs.com/202207262011892.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h2</summary>
         
@@ -185,9 +224,9 @@
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-8&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-9&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;乘法逆元-3&quot;&gt;&lt;a href=&quot;https://anubis.cafe/bfaab9bd.html&quot;&gt;乘法逆元&lt;/a&gt;&lt;/h3&gt;
-&lt;h2 id=&quot;定理&quot;&gt;定理&lt;/h2&gt;
+&lt;h2 id=&quot;定理-2&quot;&gt;定理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
         
       
@@ -265,7 +304,7 @@ bool</summary>
     <summary type="html">&lt;p&gt;1&lt;/p&gt;
 &lt;h2 id=&quot;原理部分&quot;&gt;原理部分&lt;/h2&gt;
 &lt;p&gt;由于时间限制，后续会补充学习&lt;/p&gt;
-&lt;h2 id=&quot;代码实现-7&quot;&gt;代码实现&lt;/h2&gt;
+&lt;h2 id=&quot;代码实现-8&quot;&gt;代码实现&lt;/h2&gt;
 &lt;h3 id=&quot;PollardRho（-时间复杂度O-n1-4-）&quot;&gt;PollardRho（</summary>
         
       
@@ -316,7 +355,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;前置知识-7&quot;&gt;前置知识&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;前置知识-6&quot;&gt;前置知识&lt;/h2&gt;
 &lt;h3 id=&quot;欧拉函数&quot;&gt;&lt;a href=&quot;https://anubis.cafe/f60286b9.html&quot;&gt;欧拉函数&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&quot;原理-5&quot;&gt;原理&lt;/h2&gt;
 &lt;p&gt;&lt;img</summary>
@@ -449,7 +488,7 @@ bool</summary>
       
         
         
-    <summary type="html">&lt;h2 id=&quot;题目链接-2&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
+    <summary type="html">&lt;h2 id=&quot;题目链接&quot;&gt;&lt;a href=&quot;https://www.luogu.com.cn/problem/P2835&quot;&gt;题目链接&lt;/a&gt;&lt;/h2&gt;
 &lt;h2 id=&quot;题目分析&quot;&gt;题目分析&lt;/h2&gt;
 &lt;p&gt;裸的&lt;a</summary>
         
@@ -477,31 +516,6 @@ bool</summary>
     <published>2022-06-28T11:28:18.000Z</published>
     <updated>2022-06-28T16:20:12.536Z</updated>
     
-    
-    
-    
-    <category term="算法" scheme="https://zouxingyuks.github.io/categories/algorithm/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Tarjan算法</title>
-    <link href="https://zouxingyuks.github.io/2fe8c294.html"/>
-    <id>https://zouxingyuks.github.io/2fe8c294.html</id>
-    <published>2022-06-28T11:12:26.000Z</published>
-    <updated>2022-06-28T16:25:18.263Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;前置知识-2&quot;&gt;前置知识&lt;/h2&gt;
-&lt;h3 id=&quot;强连通分量（SCC）&quot;&gt;&lt;a href=&quot;https://anubis.cafe/4b4a3d7.html&quot;&gt;强连通分量（SCC）&lt;/a&gt;&lt;/h3&gt;
-&lt;h2</summary>
-        
-      
     
     
     
